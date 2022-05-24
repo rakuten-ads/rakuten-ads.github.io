@@ -11,6 +11,7 @@ com.rakuten.gap.ads.mission_core.listeners
 com.rakuten.gap.ads.mission_core.listeners.java
 com.rakuten.gap.ads.mission_core.observers
 com.rakuten.gap.ads.mission_core.status
+com.rakuten.gap.ads.mission_core.ui.claim
 module:rewardsdknative-event
 com.rakuten.gap.ads.mission_event
 module:rewardsdknative-ui
