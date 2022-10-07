@@ -1,0 +1,1958 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/Authentication/ThirdPartyLogin/RakutenReward+LoginPage.swift",
+      "line": 108,
+      "symbol": "RakutenReward.logout(_:forceRemoveToken:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/Missions/Shared/Models/UnclaimedItem.swift",
+      "line": 53,
+      "symbol": "UnclaimedItem.init(mission:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/APIs/Authentication/AuthenticationAPIObjc.swift",
+      "line": 78,
+      "symbol": "RakutenReward.logoutObjc(forceRemoveToken:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/APIs/Members/MemberPointRankObject.swift",
+      "line": 15,
+      "symbol": "RakutenReward.MemberPointRankObject.memberPoints",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/APIs/Missions/Claim/PointClaimScreenEventObject.swift",
+      "line": 19,
+      "symbol": "PointClaimScreenEventObjc.PointClaimScreenEventObjcDidFailToShow.error",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/APIs/Missions/Claim/PointClaimScreenEventObject.swift",
+      "line": 37,
+      "symbol": "PointClaimScreenEventObjc.PointClaimScreenEventObjcDidFailToClaim.error",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/APIs/Missions/Claim/PointClaimScreenEventObject.swift",
+      "line": 46,
+      "symbol": "PointClaimScreenEventObjc.PointClaimScreenEventObjcDidClaimSuccessfully.unclaimedItemObject",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/APIs/Missions/Claim/PointClaimScreenEventObject.swift",
+      "line": 55,
+      "symbol": "PointClaimScreenEventObjc.PointClaimScreenEventObjcDidUpdateIchibaAds.deeplinkUrl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/APIs/Notifications/NotificationTypeObject.swift",
+      "line": 16,
+      "symbol": "NotificationTypeObjc.NotificationTypeObjcNONE.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/APIs/Notifications/NotificationTypeObject.swift",
+      "line": 23,
+      "symbol": "NotificationTypeObjc.NotificationTypeObjcBANNER.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/APIs/Notifications/NotificationTypeObject.swift",
+      "line": 30,
+      "symbol": "NotificationTypeObjc.NotificationTypeObjcMODAL.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/APIs/Notifications/NotificationTypeObject.swift",
+      "line": 37,
+      "symbol": "NotificationTypeObjc.NotificationTypeObjcCUSTOM.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/APIs/Notifications/NotificationTypeObject.swift",
+      "line": 44,
+      "symbol": "NotificationTypeObjc.NotificationTypeObjcBanner50.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/APIs/Notifications/NotificationTypeObject.swift",
+      "line": 51,
+      "symbol": "NotificationTypeObjc.NotificationTypeObjcBanner250.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/RPGRequestErrorObjc.swift",
+      "line": 16,
+      "symbol": "RPGRequestErrorObjc.RPGRequestErrorObjcTokenExpire.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/RPGRequestErrorObjc.swift",
+      "line": 23,
+      "symbol": "RPGRequestErrorObjc.RPGRequestErrorObjcServerError.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/RewardSDKSessionErrorObjc.swift",
+      "line": 16,
+      "symbol": "RewardSDKSessionErrorObjc.RewardSDKSessionErrorObjcUserNotFound.error",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/RewardSDKSessionErrorObjc.swift",
+      "line": 23,
+      "symbol": "RewardSDKSessionErrorObjc.RewardSDKSessionErrorObjcUserNotFound.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/RewardSDKSessionErrorObjc.swift",
+      "line": 35,
+      "symbol": "RewardSDKSessionErrorObjc.RewardSDKSessionErrorObjcAppcodeInvalid.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/RewardSDKSessionErrorObjc.swift",
+      "line": 47,
+      "symbol": "RewardSDKSessionErrorObjc.RewardSDKSessionErrorObjcBundleError.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/RewardSDKSessionErrorObjc.swift",
+      "line": 59,
+      "symbol": "RewardSDKSessionErrorObjc.RewardSDKSessionErrorObjcLoginRequired.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/RewardSDKSessionErrorObjc.swift",
+      "line": 71,
+      "symbol": "RewardSDKSessionErrorObjc.RewardSDKSessionErrorObjcInvalidTokenType.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/RewardSDKSessionErrorObjc.swift",
+      "line": 83,
+      "symbol": "RewardSDKSessionErrorObjc.RewardSDKSessionErrorObjcCannotRetrieveSessionToken.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/RewardSDKSessionErrorObjc.swift",
+      "line": 95,
+      "symbol": "RewardSDKSessionErrorObjc.RewardSDKSessionErrorObjcCannotLogOutOnServer.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/SDKErrorObjc.swift",
+      "line": 21,
+      "symbol": "SDKErrorObjc.SDKErrorObjcNoMissionFound.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/SDKErrorObjc.swift",
+      "line": 33,
+      "symbol": "SDKErrorObjc.SDKErrorObjcNoUnclaimedItemFound.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/SDKErrorObjc.swift",
+      "line": 45,
+      "symbol": "SDKErrorObjc.SDKErrorObjcSessionNotInitialized.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/SDKErrorObjc.swift",
+      "line": 57,
+      "symbol": "SDKErrorObjc.SDKErrorObjcFeatureDisabledByUser.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/SDKErrorObjc.swift",
+      "line": 69,
+      "symbol": "SDKErrorObjc.SDKErrorObjcSDKStatusNotOnline.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/RakutenReward/APIs/RakutenReward.swift",
+      "line": 75,
+      "symbol": "RakutenReward.SDKEnvironment.production",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/RakutenReward/APIs/RakutenReward.swift",
+      "line": 75,
+      "symbol": "RakutenReward.SDKEnvironment.staging",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/RakutenReward/Enums/FeatureRetriable.swift",
+      "line": 11,
+      "symbol": "FeatureRetriable.claim(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/RakutenReward/Enums/FeatureRetriable.swift",
+      "line": 11,
+      "symbol": "FeatureRetriable.logAction(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/RakutenReward/Enums/FeatureRetriable.swift",
+      "line": 11,
+      "symbol": "FeatureRetriable.pointHistory",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/RakutenReward/Enums/FeatureRetriable.swift",
+      "line": 11,
+      "symbol": "FeatureRetriable.progressList",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/RakutenReward/Enums/FeatureRetriable.swift",
+      "line": 11,
+      "symbol": "FeatureRetriable.unclaimedList",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/RakutenReward/TypeAliases/RakutenRewardTypeAliases.swift",
+      "line": 9,
+      "symbol": "AppCode",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/RakutenReward/TypeAliases/RakutenRewardTypeAliases.swift",
+      "line": 10,
+      "symbol": "AccessToken",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/RakutenReward/TypeAliases/RakutenRewardTypeAliases.swift",
+      "line": 11,
+      "symbol": "RetryFunction",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/AES.swift",
+      "line": 21,
+      "symbol": "AES.Error",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/AES.swift",
+      "line": 30,
+      "symbol": "AES.Variant",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/AES.swift",
+      "line": 31,
+      "symbol": "AES.Variant.aes128",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/AES.swift",
+      "line": 31,
+      "symbol": "AES.Variant.aes192",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/AES.swift",
+      "line": 31,
+      "symbol": "AES.Variant.aes256",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/AES.swift",
+      "line": 55,
+      "symbol": "AES.blockSize",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/AES.swift",
+      "line": 56,
+      "symbol": "AES.keySize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Array+Extension.swift",
+      "line": 35,
+      "symbol": "Array.init(hex:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Array+Extension.swift",
+      "line": 73,
+      "symbol": "Array.toHexString()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Array+Extension.swift",
+      "line": 100,
+      "symbol": "Array.md5()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Array+Extension.swift",
+      "line": 104,
+      "symbol": "Array.sha1()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Array+Extension.swift",
+      "line": 108,
+      "symbol": "Array.sha224()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Array+Extension.swift",
+      "line": 112,
+      "symbol": "Array.sha256()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Array+Extension.swift",
+      "line": 116,
+      "symbol": "Array.sha384()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Array+Extension.swift",
+      "line": 120,
+      "symbol": "Array.sha512()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Array+Extension.swift",
+      "line": 124,
+      "symbol": "Array.sha2(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Array+Extension.swift",
+      "line": 128,
+      "symbol": "Array.sha3(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Array+Extension.swift",
+      "line": 132,
+      "symbol": "Array.crc32(seed:reflect:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Array+Extension.swift",
+      "line": 136,
+      "symbol": "Array.crc32c(seed:reflect:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Array+Extension.swift",
+      "line": 140,
+      "symbol": "Array.crc16(seed:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Array+Extension.swift",
+      "line": 144,
+      "symbol": "Array.encrypt(cipher:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Array+Extension.swift",
+      "line": 148,
+      "symbol": "Array.decrypt(cipher:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Array+Extension.swift",
+      "line": 152,
+      "symbol": "Array.authenticate(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockDecryptor.swift",
+      "line": 15,
+      "symbol": "BlockDecryptor",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/BlockMode.swift",
+      "line": 16,
+      "symbol": "CipherOperationOnBlock",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/BlockMode.swift",
+      "line": 18,
+      "symbol": "BlockMode",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/BlockMode.swift",
+      "line": 19,
+      "symbol": "BlockMode.options",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/BlockMode.swift",
+      "line": 21,
+      "symbol": "BlockMode.worker(blockSize:cipherOperation:encryptionOperation:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/BlockMode.swift",
+      "line": 23,
+      "symbol": "BlockMode.customBlockSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/BlockModeOptions.swift",
+      "line": 16,
+      "symbol": "BlockModeOption",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CBC.swift",
+      "line": 19,
+      "symbol": "CBC",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CBC.swift",
+      "line": 20,
+      "symbol": "CBC.Error",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CBC.swift",
+      "line": 25,
+      "symbol": "CBC.options",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CBC.swift",
+      "line": 29,
+      "symbol": "CBC.customBlockSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CBC.swift",
+      "line": 31,
+      "symbol": "CBC.init(iv:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CBC.swift",
+      "line": 35,
+      "symbol": "CBC.worker(blockSize:cipherOperation:encryptionOperation:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CCM.swift",
+      "line": 30,
+      "symbol": "CCM.Error",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CCM.swift",
+      "line": 33,
+      "symbol": "CCM.Error.invalidParameter",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CCM.swift",
+      "line": 34,
+      "symbol": "CCM.Error.fail",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CCM.swift",
+      "line": 37,
+      "symbol": "CCM.options",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CCM.swift",
+      "line": 42,
+      "symbol": "CCM.customBlockSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CCM.swift",
+      "line": 76,
+      "symbol": "CCM.worker(blockSize:cipherOperation:encryptionOperation:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CFB.swift",
+      "line": 19,
+      "symbol": "CFB",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CFB.swift",
+      "line": 20,
+      "symbol": "CFB.Error",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CFB.swift",
+      "line": 25,
+      "symbol": "CFB.SegmentSize",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CFB.swift",
+      "line": 26,
+      "symbol": "CFB.SegmentSize.cfb8",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CFB.swift",
+      "line": 27,
+      "symbol": "CFB.SegmentSize.cfb128",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CFB.swift",
+      "line": 30,
+      "symbol": "CFB.options",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CFB.swift",
+      "line": 33,
+      "symbol": "CFB.customBlockSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CFB.swift",
+      "line": 35,
+      "symbol": "CFB.init(iv:segmentSize:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CFB.swift",
+      "line": 41,
+      "symbol": "CFB.worker(blockSize:cipherOperation:encryptionOperation:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CTR.swift",
+      "line": 18,
+      "symbol": "CTR",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CTR.swift",
+      "line": 19,
+      "symbol": "CTR.Error",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CTR.swift",
+      "line": 24,
+      "symbol": "CTR.options",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CTR.swift",
+      "line": 27,
+      "symbol": "CTR.customBlockSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CTR.swift",
+      "line": 29,
+      "symbol": "CTR.init(iv:counter:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CTR.swift",
+      "line": 34,
+      "symbol": "CTR.worker(blockSize:cipherOperation:encryptionOperation:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CipherModeWorker.swift",
+      "line": 16,
+      "symbol": "CipherModeWorker",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CipherModeWorker.swift",
+      "line": 17,
+      "symbol": "CipherModeWorker.cipherOperation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CipherModeWorker.swift",
+      "line": 21,
+      "symbol": "CipherModeWorker.additionalBufferSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CipherModeWorker.swift",
+      "line": 24,
+      "symbol": "CipherModeWorker.encrypt(block:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CipherModeWorker.swift",
+      "line": 27,
+      "symbol": "CipherModeWorker.decrypt(block:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CipherModeWorker.swift",
+      "line": 32,
+      "symbol": "BlockModeWorker.blockSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CipherModeWorker.swift",
+      "line": 35,
+      "symbol": "CounterModeWorker",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CipherModeWorker.swift",
+      "line": 36,
+      "symbol": "CounterModeWorker.Counter",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CipherModeWorker.swift",
+      "line": 37,
+      "symbol": "CounterModeWorker.counter",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CipherModeWorker.swift",
+      "line": 40,
+      "symbol": "SeekableModeWorker",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CipherModeWorker.swift",
+      "line": 41,
+      "symbol": "SeekableModeWorker.seek(to:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CipherModeWorker.swift",
+      "line": 48,
+      "symbol": "FinalizingEncryptModeWorker",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CipherModeWorker.swift",
+      "line": 51,
+      "symbol": "FinalizingEncryptModeWorker.finalize(encrypt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CipherModeWorker.swift",
+      "line": 54,
+      "symbol": "FinalizingDecryptModeWorker",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CipherModeWorker.swift",
+      "line": 58,
+      "symbol": "FinalizingDecryptModeWorker.willDecryptLast(bytes:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CipherModeWorker.swift",
+      "line": 60,
+      "symbol": "FinalizingDecryptModeWorker.didDecryptLast(bytes:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/CipherModeWorker.swift",
+      "line": 63,
+      "symbol": "FinalizingDecryptModeWorker.finalize(decrypt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/ECB.swift",
+      "line": 19,
+      "symbol": "ECB",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/ECB.swift",
+      "line": 20,
+      "symbol": "ECB.options",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/ECB.swift",
+      "line": 21,
+      "symbol": "ECB.customBlockSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/ECB.swift",
+      "line": 23,
+      "symbol": "ECB.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/ECB.swift",
+      "line": 26,
+      "symbol": "ECB.worker(blockSize:cipherOperation:encryptionOperation:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/GCM.swift",
+      "line": 21,
+      "symbol": "GCM",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/GCM.swift",
+      "line": 22,
+      "symbol": "GCM.Mode",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/GCM.swift",
+      "line": 29,
+      "symbol": "GCM.options",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/GCM.swift",
+      "line": 31,
+      "symbol": "GCM.Error",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/GCM.swift",
+      "line": 41,
+      "symbol": "GCM.customBlockSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/GCM.swift",
+      "line": 63,
+      "symbol": "GCM.init(iv:authenticationTag:additionalAuthenticatedData:mode:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/GCM.swift",
+      "line": 68,
+      "symbol": "GCM.worker(blockSize:cipherOperation:encryptionOperation:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/OCB.swift",
+      "line": 20,
+      "symbol": "OCB",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/OCB.swift",
+      "line": 22,
+      "symbol": "OCB.Mode",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/OCB.swift",
+      "line": 29,
+      "symbol": "OCB.options",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/OCB.swift",
+      "line": 31,
+      "symbol": "OCB.Error",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/OCB.swift",
+      "line": 32,
+      "symbol": "OCB.Error.invalidNonce",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/OCB.swift",
+      "line": 33,
+      "symbol": "OCB.Error.fail",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/OCB.swift",
+      "line": 39,
+      "symbol": "OCB.customBlockSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/OCB.swift",
+      "line": 52,
+      "symbol": "OCB.init(nonce:additionalAuthenticatedData:tagLength:mode:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/OCB.swift",
+      "line": 61,
+      "symbol": "OCB.init(nonce:authenticationTag:additionalAuthenticatedData:mode:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/OCB.swift",
+      "line": 66,
+      "symbol": "OCB.worker(blockSize:cipherOperation:encryptionOperation:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/OFB.swift",
+      "line": 19,
+      "symbol": "OFB",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/OFB.swift",
+      "line": 20,
+      "symbol": "OFB.Error",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/OFB.swift",
+      "line": 25,
+      "symbol": "OFB.options",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/OFB.swift",
+      "line": 27,
+      "symbol": "OFB.customBlockSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/OFB.swift",
+      "line": 29,
+      "symbol": "OFB.init(iv:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/OFB.swift",
+      "line": 33,
+      "symbol": "OFB.worker(blockSize:cipherOperation:encryptionOperation:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/PCBC.swift",
+      "line": 19,
+      "symbol": "PCBC",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/PCBC.swift",
+      "line": 20,
+      "symbol": "PCBC.Error",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/PCBC.swift",
+      "line": 25,
+      "symbol": "PCBC.options",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/PCBC.swift",
+      "line": 27,
+      "symbol": "PCBC.customBlockSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/PCBC.swift",
+      "line": 29,
+      "symbol": "PCBC.init(iv:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/BlockMode/PCBC.swift",
+      "line": 33,
+      "symbol": "PCBC.worker(blockSize:cipherOperation:encryptionOperation:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Cipher.swift",
+      "line": 16,
+      "symbol": "CipherError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Cipher.swift",
+      "line": 17,
+      "symbol": "CipherError.encrypt",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Cipher.swift",
+      "line": 18,
+      "symbol": "CipherError.decrypt",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Cipher.swift",
+      "line": 21,
+      "symbol": "Cipher",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Cipher.swift",
+      "line": 22,
+      "symbol": "Cipher.keySize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Cipher.swift",
+      "line": 29,
+      "symbol": "Cipher.encrypt(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Cipher.swift",
+      "line": 36,
+      "symbol": "Cipher.decrypt(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Cipher.swift",
+      "line": 39,
+      "symbol": "Cipher",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/CryptoSwiftString+Extension.swift",
+      "line": 20,
+      "symbol": "String.bytes",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/CryptoSwiftString+Extension.swift",
+      "line": 25,
+      "symbol": "String.md5()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/CryptoSwiftString+Extension.swift",
+      "line": 30,
+      "symbol": "String.sha1()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/CryptoSwiftString+Extension.swift",
+      "line": 35,
+      "symbol": "String.sha224()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/CryptoSwiftString+Extension.swift",
+      "line": 40,
+      "symbol": "String.sha256()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/CryptoSwiftString+Extension.swift",
+      "line": 45,
+      "symbol": "String.sha384()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/CryptoSwiftString+Extension.swift",
+      "line": 50,
+      "symbol": "String.sha512()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/CryptoSwiftString+Extension.swift",
+      "line": 55,
+      "symbol": "String.sha3(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/CryptoSwiftString+Extension.swift",
+      "line": 60,
+      "symbol": "String.crc32(seed:reflect:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/CryptoSwiftString+Extension.swift",
+      "line": 65,
+      "symbol": "String.crc32c(seed:reflect:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/CryptoSwiftString+Extension.swift",
+      "line": 70,
+      "symbol": "String.crc16(seed:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Digest.swift",
+      "line": 17,
+      "symbol": "Hash",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Foundation/Array+Foundation.swift",
+      "line": 19,
+      "symbol": "Array.toBase64()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Foundation/Array+Foundation.swift",
+      "line": 23,
+      "symbol": "Array.init(base64:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Foundation/Data+Extension.swift",
+      "line": 27,
+      "symbol": "Data.md5()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Foundation/Data+Extension.swift",
+      "line": 31,
+      "symbol": "Data.sha1()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Foundation/Data+Extension.swift",
+      "line": 35,
+      "symbol": "Data.sha224()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Foundation/Data+Extension.swift",
+      "line": 39,
+      "symbol": "Data.sha256()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Foundation/Data+Extension.swift",
+      "line": 43,
+      "symbol": "Data.sha384()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Foundation/Data+Extension.swift",
+      "line": 47,
+      "symbol": "Data.sha512()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Foundation/Data+Extension.swift",
+      "line": 51,
+      "symbol": "Data.sha3(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Foundation/Data+Extension.swift",
+      "line": 55,
+      "symbol": "Data.crc32(seed:reflect:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Foundation/Data+Extension.swift",
+      "line": 59,
+      "symbol": "Data.crc32c(seed:reflect:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Foundation/Data+Extension.swift",
+      "line": 63,
+      "symbol": "Data.crc16(seed:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Foundation/Data+Extension.swift",
+      "line": 67,
+      "symbol": "Data.encrypt(cipher:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Foundation/Data+Extension.swift",
+      "line": 71,
+      "symbol": "Data.decrypt(cipher:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Foundation/Data+Extension.swift",
+      "line": 75,
+      "symbol": "Data.authenticate(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Foundation/Data+Extension.swift",
+      "line": 81,
+      "symbol": "Data.init(hex:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Foundation/Data+Extension.swift",
+      "line": 85,
+      "symbol": "Data.bytes",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Foundation/Data+Extension.swift",
+      "line": 89,
+      "symbol": "Data.toHexString()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Foundation/String+FoundationExtension.swift",
+      "line": 34,
+      "symbol": "String.decryptBase64(cipher:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/HMAC.swift",
+      "line": 16,
+      "symbol": "HMAC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/HMAC.swift",
+      "line": 17,
+      "symbol": "HMAC.Error",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/HMAC.swift",
+      "line": 18,
+      "symbol": "HMAC.Error.authenticateError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/HMAC.swift",
+      "line": 19,
+      "symbol": "HMAC.Error.invalidInput",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/HMAC.swift",
+      "line": 22,
+      "symbol": "HMAC.Variant",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/HMAC.swift",
+      "line": 23,
+      "symbol": "HMAC.Variant.md5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/HMAC.swift",
+      "line": 24,
+      "symbol": "HMAC.Variant.sha1",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/HMAC.swift",
+      "line": 25,
+      "symbol": "HMAC.Variant.sha2(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/HMAC.swift",
+      "line": 26,
+      "symbol": "HMAC.Variant.sha3(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/HMAC.swift",
+      "line": 29,
+      "symbol": "HMAC.Variant.sha256",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/HMAC.swift",
+      "line": 29,
+      "symbol": "HMAC.Variant.sha384",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/HMAC.swift",
+      "line": 29,
+      "symbol": "HMAC.Variant.sha512",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/HMAC.swift",
+      "line": 92,
+      "symbol": "HMAC.init(key:variant:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/MD5.swift",
+      "line": 16,
+      "symbol": "MD5",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/MD5.swift",
+      "line": 53,
+      "symbol": "MD5.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/MD5.swift",
+      "line": 56,
+      "symbol": "MD5.calculate(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/MD5.swift",
+      "line": 120,
+      "symbol": "MD5",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/PKCS/PBKDF1.swift",
+      "line": 23,
+      "symbol": "PKCS5.PBKDF1.Error",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/PKCS/PBKDF1.swift",
+      "line": 24,
+      "symbol": "PKCS5.PBKDF1.Error.invalidInput",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/PKCS/PBKDF1.swift",
+      "line": 25,
+      "symbol": "PKCS5.PBKDF1.Error.derivedKeyTooLong",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/PKCS/PBKDF1.swift",
+      "line": 28,
+      "symbol": "PKCS5.PBKDF1.Variant",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/PKCS/PBKDF1.swift",
+      "line": 29,
+      "symbol": "PKCS5.PBKDF1.Variant.md5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/PKCS/PBKDF1.swift",
+      "line": 29,
+      "symbol": "PKCS5.PBKDF1.Variant.sha1",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/PKCS/PBKDF2.swift",
+      "line": 33,
+      "symbol": "PKCS5.PBKDF2.Error",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/PKCS/PBKDF2.swift",
+      "line": 34,
+      "symbol": "PKCS5.PBKDF2.Error.invalidInput",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/PKCS/PBKDF2.swift",
+      "line": 35,
+      "symbol": "PKCS5.PBKDF2.Error.derivedKeyTooLong",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/PKCS/PBKDF2.swift",
+      "line": 73,
+      "symbol": "PKCS5.PBKDF2.calculate()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/PKCS/PKCS5.swift",
+      "line": 16,
+      "symbol": "PKCS5",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/PKCS/PKCS5.swift",
+      "line": 20,
+      "symbol": "PKCS5",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/PKCS/PKCS5.swift",
+      "line": 27,
+      "symbol": "PKCS5",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/PKCS/PKCS7.swift",
+      "line": 16,
+      "symbol": "PKCS7",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Padding.swift",
+      "line": 16,
+      "symbol": "PaddingProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Padding.swift",
+      "line": 17,
+      "symbol": "PaddingProtocol.add(to:blockSize:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Padding.swift",
+      "line": 18,
+      "symbol": "PaddingProtocol.remove(from:blockSize:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Padding.swift",
+      "line": 21,
+      "symbol": "Padding",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Padding.swift",
+      "line": 22,
+      "symbol": "Padding.iso10126",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Padding.swift",
+      "line": 22,
+      "symbol": "Padding.iso78164",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Padding.swift",
+      "line": 22,
+      "symbol": "Padding.noPadding",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Padding.swift",
+      "line": 22,
+      "symbol": "Padding.pkcs5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Padding.swift",
+      "line": 22,
+      "symbol": "Padding.pkcs7",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Padding.swift",
+      "line": 22,
+      "symbol": "Padding.zeroPadding",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Padding.swift",
+      "line": 24,
+      "symbol": "Padding.add(to:blockSize:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Padding.swift",
+      "line": 41,
+      "symbol": "Padding.remove(from:blockSize:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA1.swift",
+      "line": 16,
+      "symbol": "SHA1",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA1.swift",
+      "line": 36,
+      "symbol": "SHA1.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA1.swift",
+      "line": 40,
+      "symbol": "SHA1.calculate(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA1.swift",
+      "line": 113,
+      "symbol": "SHA1",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA2.swift",
+      "line": 19,
+      "symbol": "SHA2",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA2.swift",
+      "line": 47,
+      "symbol": "SHA2.Variant",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA2.swift",
+      "line": 48,
+      "symbol": "SHA2.Variant.sha224",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA2.swift",
+      "line": 48,
+      "symbol": "SHA2.Variant.sha256",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA2.swift",
+      "line": 48,
+      "symbol": "SHA2.Variant.sha384",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA2.swift",
+      "line": 48,
+      "symbol": "SHA2.Variant.sha512",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA2.swift",
+      "line": 50,
+      "symbol": "SHA2.Variant.digestLength",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA2.swift",
+      "line": 54,
+      "symbol": "SHA2.Variant.blockSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA2.swift",
+      "line": 119,
+      "symbol": "SHA2.init(variant:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA2.swift",
+      "line": 164,
+      "symbol": "SHA2.calculate(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA2.swift",
+      "line": 295,
+      "symbol": "SHA2",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA3.swift",
+      "line": 28,
+      "symbol": "SHA3",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA3.swift",
+      "line": 38,
+      "symbol": "SHA3.blockSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA3.swift",
+      "line": 39,
+      "symbol": "SHA3.digestLength",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA3.swift",
+      "line": 40,
+      "symbol": "SHA3.markByte",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA3.swift",
+      "line": 49,
+      "symbol": "SHA3.Variant",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA3.swift",
+      "line": 50,
+      "symbol": "SHA3.Variant.keccak224",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA3.swift",
+      "line": 50,
+      "symbol": "SHA3.Variant.keccak256",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA3.swift",
+      "line": 50,
+      "symbol": "SHA3.Variant.keccak384",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA3.swift",
+      "line": 50,
+      "symbol": "SHA3.Variant.keccak512",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA3.swift",
+      "line": 50,
+      "symbol": "SHA3.Variant.sha224",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA3.swift",
+      "line": 50,
+      "symbol": "SHA3.Variant.sha256",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA3.swift",
+      "line": 50,
+      "symbol": "SHA3.Variant.sha384",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA3.swift",
+      "line": 50,
+      "symbol": "SHA3.Variant.sha512",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA3.swift",
+      "line": 69,
+      "symbol": "SHA3.Variant.outputLength",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA3.swift",
+      "line": 83,
+      "symbol": "SHA3.init(variant:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA3.swift",
+      "line": 91,
+      "symbol": "SHA3.calculate(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/SHA3.swift",
+      "line": 259,
+      "symbol": "SHA3",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Updatable.swift",
+      "line": 69,
+      "symbol": "Updatable.finish(withBytes:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Encryptions/CryptoSwift/Sources/CryptoSwift/Updatable.swift",
+      "line": 95,
+      "symbol": "Updatable.finish(withBytes:output:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Extensions/Array+Safe.swift",
+      "line": 12,
+      "symbol": "Array.subscript(safeIndex:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Extensions/UIDevice+Extension.swift",
+      "line": 13,
+      "symbol": "UIDevice.modelName",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Extensions/UIDevice+Extension.swift",
+      "line": 25,
+      "symbol": "UIDevice.isSmallScreenDevice()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Extensions/UIDevice+Extension.swift",
+      "line": 36,
+      "symbol": "UIDevice.mapToDevice(identifier:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Extensions/URLRequest+Extension.swift",
+      "line": 18,
+      "symbol": "URLRequest.HTTPMethod.get",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Extensions/URLRequest+Extension.swift",
+      "line": 19,
+      "symbol": "URLRequest.HTTPMethod.put",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Extensions/URLRequest+Extension.swift",
+      "line": 20,
+      "symbol": "URLRequest.HTTPMethod.post",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Extensions/URLRequest+Extension.swift",
+      "line": 21,
+      "symbol": "URLRequest.HTTPMethod.delete",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Extensions/URLRequest+Extension.swift",
+      "line": 22,
+      "symbol": "URLRequest.HTTPMethod.head",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Extensions/URLRequest+Extension.swift",
+      "line": 23,
+      "symbol": "URLRequest.HTTPMethod.options",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Extensions/URLRequest+Extension.swift",
+      "line": 24,
+      "symbol": "URLRequest.HTTPMethod.trace",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Extensions/URLRequest+Extension.swift",
+      "line": 25,
+      "symbol": "URLRequest.HTTPMethod.connect",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Storyboards/Storyboards.swift",
+      "line": 215,
+      "symbol": "UICollectionReusableView.viewType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Storyboards/Storyboards.swift",
+      "line": 216,
+      "symbol": "UICollectionReusableView.storyboardIdentifier",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Storyboards/Storyboards.swift",
+      "line": 220,
+      "symbol": "UITableViewCell.viewType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Storyboards/Storyboards.swift",
+      "line": 221,
+      "symbol": "UITableViewCell.storyboardIdentifier",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/derick.derick/Projects/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK"
+}
