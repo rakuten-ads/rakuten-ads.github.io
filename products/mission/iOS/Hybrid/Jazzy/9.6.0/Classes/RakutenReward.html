@@ -1,0 +1,910 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>RakutenReward Class Reference</title>
+    <link rel="stylesheet" type="text/css" href="../css/jazzy.css" />
+    <link rel="stylesheet" type="text/css" href="../css/highlight.css" />
+    <meta charset='utf-8'>
+    <script src="../js/jquery.min.js" defer></script>
+    <script src="../js/jazzy.js" defer></script>
+    
+    <script src="../js/lunr.min.js" defer></script>
+    <script src="../js/typeahead.jquery.js" defer></script>
+    <script src="../js/jazzy.search.js" defer></script>
+  </head>
+  <body>
+    <a name="//apple_ref/swift/Class/RakutenReward" class="dashAnchor"></a>
+    <a title="RakutenReward Class Reference"></a>
+    <header>
+      <div class="content-wrapper">
+        <p><a href="../index.html">RakutenRewardSDK 9.6.0 Docs</a> (0% documented)</p>
+        <div class="header-right">
+          <form role="search" action="../search.json">
+            <input type="text" placeholder="Search documentation" data-typeahead>
+          </form>
+        </div>
+      </div>
+    </header>
+    <div class="content-wrapper">
+      <p id="breadcrumbs">
+        <a href="../index.html">RakutenRewardSDK Reference</a>
+        <img id="carat" src="../img/carat.png" alt=""/>
+        RakutenReward Class Reference
+      </p>
+    </div>
+    <div class="content-wrapper">
+      <nav class="sidebar">
+        <ul class="nav-groups">
+          <li class="nav-group-name">
+            <a href="../Classes.html">Classes</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Classes/AES.html">AES</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/AES/Error.html">– Error</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/AES/Variant.html">– Variant</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/BlockDecryptor.html">BlockDecryptor</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/CC.html">CC</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/CC/CCError.html">– CCError</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/CC/DigestAlgorithm.html">– DigestAlgorithm</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/CC/HMACAlg.html">– HMACAlg</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/CC/OpMode.html">– OpMode</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/CC/BlockMode.html">– BlockMode</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/CC/AuthBlockMode.html">– AuthBlockMode</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/CC/Algorithm.html">– Algorithm</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/CC/Padding.html">– Padding</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/CC/GCM.html">– GCM</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/CC/CCM.html">– CCM</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/CC/RSA.html">– RSA</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/CC/DH.html">– DH</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/CC/EC.html">– EC</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/CC/CRC.html">– CRC</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/CC/CMAC.html">– CMAC</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/CC/KeyDerivation.html">– KeyDerivation</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/CC/KeyWrap.html">– KeyWrap</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/Checksum.html">Checksum</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/GCM.html">GCM</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/GCM/Mode.html">– Mode</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/GCM/Error.html">– Error</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/HMAC.html">HMAC</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/HMAC/Error.html">– Error</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/HMAC/Variant.html">– Variant</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/MD5.html">MD5</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/MissionAchievementData.html">MissionAchievementData</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/OCB.html">OCB</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/OCB/Mode.html">– Mode</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/OCB/Error.html">– Error</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/PEM.html">PEM</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/PEM/SwError.html">– SwError</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/PEM/PrivateKey.html">– PrivateKey</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/PEM/PublicKey.html">– PublicKey</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/PEM/EncryptedPrivateKey.html">– EncryptedPrivateKey</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/PKCS8.html">PKCS8</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/PKCS8/PrivateKey.html">– PrivateKey</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/PKCS8/PublicKey.html">– PublicKey</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/RWReachability.html">RWReachability</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/RWReachability/NetworkStatus.html">– NetworkStatus</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/RakutenAdView.html">RakutenAdView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/RakutenReward.html">RakutenReward</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/RakutenRewardAds.html">RakutenRewardAds</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/RewardAdInterstitial.html">RewardAdInterstitial</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/RewardAdbannerView.html">RewardAdbannerView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/RewardConfiguration.html">RewardConfiguration</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/RewardPortalBarButtonItem.html">RewardPortalBarButtonItem</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/RewardPortalButton.html">RewardPortalButton</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/RewardPortalButton/ColorType.html">– ColorType</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/RewardPortalButton/BadgePosition.html">– BadgePosition</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/SHA1.html">SHA1</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/SHA2.html">SHA2</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/SHA2/Variant.html">– Variant</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/SHA3.html">SHA3</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/SHA3/Variant.html">– Variant</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/SwKeyConvert.html">SwKeyConvert</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/SwKeyConvert/SwError.html">– SwError</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/SwKeyConvert/PrivateKey.html">– PrivateKey</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/SwKeyConvert/PublicKey.html">– PublicKey</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/SwKeyStore.html">SwKeyStore</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/SwKeyStore/SecError.html">– SecError</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/User.html">User</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Global%20Variables.html">Global Variables</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Global%20Variables.html#/RWReachabilityChangedNotification">RWReachabilityChangedNotification</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Enums.html">Enumerations</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Enums/CipherError.html">CipherError</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/MemberInfoSpecialError.html">MemberInfoSpecialError</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/OpenAdPortalError.html">OpenAdPortalError</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/PKCS5.html">PKCS5</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/PKCS5/PBKDF1.html">– PBKDF1</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/PKCS5/PBKDF2.html">– PBKDF2</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums.html#/PKCS7">PKCS7</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/Padding.html">Padding</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/RADErrorCode.html">RADErrorCode</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/RAdSize.html">RAdSize</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/RWFrequency.html">RWFrequency</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/RWReachabilityError.html">RWReachabilityError</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/RakutenRewardStatus.html">RakutenRewardStatus</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/RewardSessionErrorCode.html">RewardSessionErrorCode</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Extensions.html">Extensions</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Extensions/Array.html">Array</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions.html#/BatchedCollectionIndex">BatchedCollectionIndex</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/Data.html">Data</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions.html#/HttpClient">HttpClient</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions.html#/NotificationViewWithAd">NotificationViewWithAd</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/RWLogLevel.html">RWLogLevel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/SecureBytes.html">SecureBytes</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/String.html">String</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/UIColor.html">UIColor</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/URLCheck.html">URLCheck</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions.html#/WKWebViewController">WKWebViewController</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Protocols.html">Protocols</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Protocols/AdPortalDelegate.html">AdPortalDelegate</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/Authenticator.html">Authenticator</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/BlockMode.html">BlockMode</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/BlockModeWorker.html">BlockModeWorker</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/Cipher.html">Cipher</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/CipherModeWorker.html">CipherModeWorker</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/CounterModeWorker.html">CounterModeWorker</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/Cryptor.html">Cryptor</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/Cryptors.html">Cryptors</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/FinalizingDecryptModeWorker.html">FinalizingDecryptModeWorker</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/FinalizingEncryptModeWorker.html">FinalizingEncryptModeWorker</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/PaddingProtocol.html">PaddingProtocol</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/RakutenRewardDelegate.html">RakutenRewardDelegate</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/RakutenRewardSessionDelegate.html">RakutenRewardSessionDelegate</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/RewardADBannerViewDelegate.html">RewardADBannerViewDelegate</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/RewardAdInterstitialDelegate.html">RewardAdInterstitialDelegate</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/SeekableModeWorker.html">SeekableModeWorker</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols.html#/StreamModeWorker">StreamModeWorker</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/Updatable.html">Updatable</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Structs.html">Structures</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Structs/BlockModeOption.html">BlockModeOption</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/CBC.html">CBC</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/CBC/Error.html">– Error</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/CCM.html">CCM</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/CCM/Error.html">– Error</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/CFB.html">CFB</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/CFB/Error.html">– Error</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/CFB/SegmentSize.html">– SegmentSize</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/CTR.html">CTR</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/CTR/Error.html">– Error</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/Digest.html">Digest</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/ECB.html">ECB</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/OFB.html">OFB</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/OFB/Error.html">– Error</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/PCBC.html">PCBC</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/PCBC/Error.html">– Error</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Typealiases.html">Type Aliases</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/CipherOperationOnBlock">CipherOperationOnBlock</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/RakutenADBannerView">RakutenADBannerView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/RakutenADBannerViewDelegate">RakutenADBannerViewDelegate</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/RakutenADInterstitial">RakutenADInterstitial</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/RakutenADInterstitialDelegate">RakutenADInterstitialDelegate</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <article class="main-content">
+        <section>
+          <section class="section">
+            <h1>RakutenReward</h1>
+            <p>An object that contains information about Rakuten Reward SDK basic functions, such as SDK initialization, log action, open portal and etc.</p>
+
+          </section>
+          <section class="section task-group-section">
+            <div class="task-group">
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Variable/sharedInstance" class="dashAnchor"></a>
+                    <a class="token" href="#/">sharedInstance</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Shared object for RakutenReward.</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Property/delegate" class="dashAnchor"></a>
+                    <a class="token" href="#/">delegate</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Rakuten Reward delegate.</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Property/isDebug" class="dashAnchor"></a>
+                    <a class="token" href="#/">isDebug</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Get more logs from Reward SDK by setting isDebug to true. isDebug is false by default.</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Property/advertisingID" class="dashAnchor"></a>
+                    <a class="token" href="#/">advertisingID</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>For iOS 14 and above, please set the IDFA or ad tracking ID to this property.</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <div class="task-name-container">
+                <a name="/Public%20method"></a>
+                <a name="//apple_ref/swift/Section/Public method" class="dashAnchor"></a>
+                <div class="section-name-container">
+                  <a class="section-name-link" href="#/Public%20method"></a>
+                  <h3 class="section-name"><span>Public method</span>
+</h3>
+                </div>
+              </div>
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Method/startSession(appCode:)" class="dashAnchor"></a>
+                    <a class="token" href="#/">startSession(appCode:<wbr>)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Initialize Reward SDK with appcode.</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Method/logAction(actionCode:)" class="dashAnchor"></a>
+                    <a class="token" href="#/">logAction(actionCode:<wbr>)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Log action with action code.
+If you are logging multiple actions at the same time, please use <code><a href="../Classes/RakutenReward.html#/logAction(actionCode:isQueueEnabled:)">logAction(actionCode:isQueueEnabled:)</a></code> instead.
+Logging multiple action without queue may cause some log action to fail.</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Method/logAction(actionCode:isQueueEnabled:)" class="dashAnchor"></a>
+                    <a class="token" href="#/">logAction(actionCode:<wbr>isQueueEnabled:<wbr>)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Log action with action code with queue. Use this method when logging multiple actions.</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Method/openPortal()" class="dashAnchor"></a>
+                    <a class="token" href="#/">openPortal()</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Open webview for Reward SDK portal page.</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Method/openAdPortal(delegate:)" class="dashAnchor"></a>
+                    <a class="token" href="#/">openAdPortal(delegate:<wbr>)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Open webview for Reward SDK advertisement portal page.</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Method/addBlockListURL(urlSet:)" class="dashAnchor"></a>
+                    <a class="token" href="#/">addBlockListURL(urlSet:<wbr>)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Add URL to block list to block access to a specific URL.
+This is for App Store submission rejection. Please use this API if the ad URL has problem.</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Method/updateMissionList()" class="dashAnchor"></a>
+                    <a class="token" href="#/">updateMissionList()</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Update user&rsquo;s mission list (save into user data).
+This is for internal use only (sample app).</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <div class="task-name-container">
+                <a name="/Public%20getter%20method"></a>
+                <a name="//apple_ref/swift/Section/Public getter method" class="dashAnchor"></a>
+                <div class="section-name-container">
+                  <a class="section-name-link" href="#/Public%20getter%20method"></a>
+                  <h3 class="section-name"><span>Public getter method</span>
+</h3>
+                </div>
+              </div>
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Method/getAppCode()" class="dashAnchor"></a>
+                    <a class="token" href="#/">getAppCode()</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Application key (appcode) for Reward SDK.</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Method/getStatus()" class="dashAnchor"></a>
+                    <a class="token" href="#/">getStatus()</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Rakuten Reward SDK status.</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Method/getUser()" class="dashAnchor"></a>
+                    <a class="token" href="#/">getUser()</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>User information.</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Method/getVersion()" class="dashAnchor"></a>
+                    <a class="token" href="#/">getVersion()</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>SDK version.</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Method/isOptedOut()" class="dashAnchor"></a>
+                    <a class="token" href="#/">isOptedOut()</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>SDK opt out status.</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Method/isUIEnabled()" class="dashAnchor"></a>
+                    <a class="token" href="#/">isUIEnabled()</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Mission&rsquo;s achievement notification UI (Banner, Modal, etc) setting.</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <div class="task-name-container">
+                <a name="/Public%20setter%20method"></a>
+                <a name="//apple_ref/swift/Section/Public setter method" class="dashAnchor"></a>
+                <div class="section-name-container">
+                  <a class="section-name-link" href="#/Public%20setter%20method"></a>
+                  <h3 class="section-name"><span>Public setter method</span>
+</h3>
+                </div>
+              </div>
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Method/setUIEnabled(enabled:)" class="dashAnchor"></a>
+                    <a class="token" href="#/">setUIEnabled(enabled:<wbr>)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Set SDK Mission&rsquo;s achievement notification UI setting.
+Users is able to change this setting on Reward SDK Portal&rsquo;s setting page.</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <div class="task-name-container">
+                <a name="/Internal%20method"></a>
+                <a name="//apple_ref/swift/Section/Internal method" class="dashAnchor"></a>
+                <div class="section-name-container">
+                  <a class="section-name-link" href="#/Internal%20method"></a>
+                  <h3 class="section-name"><span>Internal method</span>
+</h3>
+                </div>
+              </div>
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Method/didUpdateLocation(longitude:latitude:timeStamp:)" class="dashAnchor"></a>
+                    <a class="token" href="#/">didUpdateLocation(longitude:<wbr>latitude:<wbr>timeStamp:<wbr>)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>This API is deprecated and no longer supported. Will be removed in future version.</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </section>
+        </section>
+        <section id="footer">
+          <p>&copy; 2022 <a class="link" href="https://developer.reward.gl.rakuten.co.jp/main/" target="_blank" rel="external noopener">Rakuten Reward Group</a>. All rights reserved. (Last updated: 2022-10-12)</p>
+          <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external noopener">jazzy ♪♫ v0.14.2</a>, a <a class="link" href="https://realm.io" target="_blank" rel="external noopener">Realm</a> project.</p>
+        </section>
+      </article>
+    </div>
+  </body>
+</html>
