@@ -1,0 +1,674 @@
+<!doctype html>
+<html class="no-js">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8">
+    <title>RakutenReward</title>
+<link href="../../../images/logo-icon.svg" rel="icon" type="image/svg">    <script>var pathToRoot = "../../../";</script>
+    <script>document.documentElement.classList.replace("no-js","js");</script>
+    <script>const storage = localStorage.getItem("dokka-dark-mode")
+    if (storage == null) {
+        const osDarkSchemePreferred = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches
+        if (osDarkSchemePreferred === true) {
+            document.getElementsByTagName("html")[0].classList.add("theme-dark")
+        }
+    } else {
+        const savedDarkMode = JSON.parse(storage)
+        if(savedDarkMode === true) {
+            document.getElementsByTagName("html")[0].classList.add("theme-dark")
+        }
+    }
+    </script>
+<script type="text/javascript" src="https://unpkg.com/kotlin-playground@1/dist/playground.min.js" async></script>
+<script type="text/javascript" src="../../../scripts/sourceset_dependencies.js" async></script>
+<link href="../../../styles/style.css" rel="Stylesheet">
+<link href="../../../styles/main.css" rel="Stylesheet">
+<link href="../../../styles/prism.css" rel="Stylesheet">
+<link href="../../../styles/logo-styles.css" rel="Stylesheet">
+<link href="../../../styles/font-jb-sans-auto.css" rel="Stylesheet">
+<script type="text/javascript" src="../../../scripts/clipboard.js" async></script>
+<script type="text/javascript" src="../../../scripts/navigation-loader.js" async></script>
+<script type="text/javascript" src="../../../scripts/platform-content-handler.js" async></script>
+<script type="text/javascript" src="../../../scripts/main.js" defer></script>
+<script type="text/javascript" src="../../../scripts/prism.js" async></script>
+<script type="text/javascript" src="../../../scripts/symbol-parameters-wrapper_deferred.js" defer></script></head>
+<body>
+    <div class="root">
+<nav class="navigation" id="navigation-wrapper">
+    <div class="navigation--inner">
+        <div class="navigation-title">
+            <button class="menu-toggle" id="menu-toggle" type="button">toggle menu</button>
+            <div class="library-name">
+<a class="library-name--link" href="../../../index.html">
+                            src
+                    </a>            </div>
+            <div class="library-version">
+            </div>
+        </div>
+        <div class="filter-section" id="filter-section">
+                <button class="platform-tag platform-selector jvm-like" data-active="" data-filter=":mission-core:dokkaHtmlPartial/release">androidJvm</button>
+        </div>
+    </div>
+    <div class="navigation-controls">
+        <button class="navigation-controls--btn navigation-controls--theme" id="theme-toggle-button" type="button">switch theme</button>
+        <div class="navigation-controls--btn navigation-controls--search" id="searchBar" role="button">search in API</div>
+    </div>
+</nav>
+        <div id="container">
+            <div class="sidebar" id="leftColumn">
+                <div class="sidebar--inner" id="sideMenu"></div>
+            </div>
+            <div id="main">
+<div class="main-content" data-page-type="classlike" id="content" pageids="rewardsdknative-core::com.rakuten.gap.ads.mission_core/RakutenReward///PointingToDeclaration//908126483">
+  <div class="breadcrumbs"><a href="../../index.html">rewardsdknative-core</a><span class="delimiter">/</span><a href="../index.html">com.rakuten.gap.ads.mission_core</a><span class="delimiter">/</span><span class="current">RakutenReward</span></div>
+  <div class="cover ">
+    <h1 class="cover"><span>Rakuten</span><wbr><span><span>Reward</span></span></h1>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><span class="token keyword">object </span><a href="index.html">RakutenReward</a></div><p class="paragraph">This class contain the main settings and API of Reward SDK</p></div></div>
+  </div>
+  <div class="tabbedcontent">
+    <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button></div>
+    <div class="tabs-section-body">
+      <div data-togglable="PROPERTY">
+        <h2 class="">Properties</h2>
+        <div class="table"><a data-name="-1714453957%2FProperties%2F908126483" anchor-label="appCode" id="-1714453957%2FProperties%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="app-code.html"><span>app</span><wbr><span><span>Code</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1714453957%2FProperties%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><span class="token keyword">var </span><a href="app-code.html">appCode</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a></div><div class="brief "><p class="paragraph">Reward SDK Application Key</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="282863294%2FProperties%2F908126483" anchor-label="lastFailed" id="282863294%2FProperties%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="last-failed.html"><span>last</span><wbr><span><span>Failed</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="282863294%2FProperties%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><span class="token keyword">var </span><a href="last-failed.html">lastFailed</a><span class="token operator">: </span><a href="../../com.rakuten.gap.ads.mission_core.data/-rakuten-reward-a-p-i-last-called/index.html">RakutenRewardAPILastCalled</a><span class="token operator">?</span></div><div class="brief "><p class="paragraph">The last failed API call</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-714572643%2FProperties%2F908126483" anchor-label="listener" id="-714572643%2FProperties%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="listener.html"><span><span>listener</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-714572643%2FProperties%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><span class="token keyword">var </span><a href="listener.html"><strike>listener</strike></a><span class="token operator">: </span><a href="../../com.rakuten.gap.ads.mission_core.listeners/-rakuten-reward-listener/index.html">RakutenRewardListener</a><span class="token operator">?</span></div><div class="brief "><p class="paragraph">Event Listener</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1816373279%2FProperties%2F908126483" anchor-label="status" id="1816373279%2FProperties%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="status.html"><span><span>status</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1816373279%2FProperties%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><span class="token keyword">var </span><a href="status.html">status</a><span class="token operator">: </span><a href="../../com.rakuten.gap.ads.mission_core.status/-rakuten-reward-s-d-k-status/index.html">RakutenRewardSDKStatus</a></div><div class="brief "><p class="paragraph">Reward SDK status</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1381120586%2FProperties%2F908126483" anchor-label="tokenType" id="-1381120586%2FProperties%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="token-type.html"><span>token</span><wbr><span><span>Type</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1381120586%2FProperties%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><span class="token keyword">var </span><a href="token-type.html">tokenType</a><span class="token operator">: </span><a href="../../com.rakuten.gap.ads.mission_core.status/-rakuten-reward-tokentype/index.html">RakutenRewardTokentype</a></div><div class="brief "><p class="paragraph">Switch ID Solution</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="997676902%2FProperties%2F908126483" anchor-label="user" id="997676902%2FProperties%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="user.html"><span><span>user</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="997676902%2FProperties%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><span class="token keyword">var </span><a href="user.html">user</a><span class="token operator">: </span><a href="../../com.rakuten.gap.ads.mission_core.data/-rakuten-reward-user/index.html">RakutenRewardUser</a></div><div class="brief "><p class="paragraph">User Data</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-2108568495%2FProperties%2F908126483" anchor-label="version" id="-2108568495%2FProperties%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="version.html"><span><span>version</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-2108568495%2FProperties%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><span class="token keyword">val </span><a href="version.html">version</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a></div><div class="brief "><p class="paragraph">Reward SDK Version</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-togglable="FUNCTION">
+        <h2 class="">Functions</h2>
+        <div class="table"><a data-name="458306594%2FFunctions%2F908126483" anchor-label="addRakutenRewardListener" id="458306594%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="add-rakuten-reward-listener.html"><span>add</span><wbr><span>Rakuten</span><wbr><span>Reward</span><wbr><span><span>Listener</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="458306594%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="add-rakuten-reward-listener.html"><span class="token function">addRakutenRewardListener</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">listener<span class="token operator">: </span><a href="../../com.rakuten.gap.ads.mission_core.listeners/-rakuten-reward-listener/index.html">RakutenRewardListener</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Add Event listener</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="867777897%2FFunctions%2F908126483" anchor-label="clearAccessToken" id="867777897%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="clear-access-token.html"><span>clear</span><wbr><span>Access</span><wbr><span><span>Token</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="867777897%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="clear-access-token.html"><span class="token function">clearAccessToken</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Clear access token</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-138443870%2FFunctions%2F908126483" anchor-label="forceClaimClose" id="-138443870%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="force-claim-close.html"><span>force</span><wbr><span>Claim</span><wbr><span><span>Close</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-138443870%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="force-claim-close.html"><span class="token function">forceClaimClose</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Close claim UI forcibly</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="602494504%2FFunctions%2F908126483" anchor-label="getMissionDetails" id="602494504%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="get-mission-details.html"><span>get</span><wbr><span>Mission</span><wbr><span><span>Details</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="602494504%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="get-mission-details.html"><span class="token function">getMissionDetails</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">actionCode<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a><span class="token punctuation">, </span></span><span class="parameter ">success<span class="token operator">: </span><span class="token punctuation">(</span>missions<span class="token operator">: </span><a href="../../com.rakuten.gap.ads.mission_core.data/-mission-data/index.html">MissionData</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a><span class="token punctuation">, </span></span><span class="parameter ">failed<span class="token operator">: </span><span class="token punctuation">(</span>e<span class="token operator">: </span><a href="../../com.rakuten.gap.ads.mission_core.api.status/-rakuten-reward-a-p-i-error/index.html">RakutenRewardAPIError</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Get the mission details</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-227589303%2FFunctions%2F908126483" anchor-label="getMissionDetailsJava" id="-227589303%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="get-mission-details-java.html"><span>get</span><wbr><span>Mission</span><wbr><span>Details</span><wbr><span><span>Java</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-227589303%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="get-mission-details-java.html"><span class="token function">getMissionDetailsJava</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">actionCode<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a><span class="token punctuation">, </span></span><span class="parameter ">callback<span class="token operator">: </span><a href="../../com.rakuten.gap.ads.mission_core.listeners.java/-get-mission-details-callback/index.html">GetMissionDetailsCallback</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Get the mission details <mark>This API is intended for application in JAVA code base</mark></p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-69057478%2FFunctions%2F908126483" anchor-label="getMissions" id="-69057478%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="get-missions.html"><span>get</span><wbr><span><span>Missions</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-69057478%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="get-missions.html"><span class="token function">getMissions</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">success<span class="token operator">: </span><span class="token punctuation">(</span>missions<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html">List</a><span class="token operator">&lt;</span><a href="../../com.rakuten.gap.ads.mission_core.data/-mission-data/index.html">MissionData</a><span class="token operator">&gt;</span><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a><span class="token punctuation">, </span></span><span class="parameter ">failed<span class="token operator">: </span><span class="token punctuation">(</span>e<span class="token operator">: </span><a href="../../com.rakuten.gap.ads.mission_core.api.status/-rakuten-reward-a-p-i-error/index.html">RakutenRewardAPIError</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Get the mission list</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1399003260%2FFunctions%2F908126483" anchor-label="getMissionsJava" id="-1399003260%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="get-missions-java.html"><span>get</span><wbr><span>Missions</span><wbr><span><span>Java</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1399003260%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="get-missions-java.html"><span class="token function">getMissionsJava</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">callback<span class="token operator">: </span><a href="../../com.rakuten.gap.ads.mission_core.listeners.java/-get-missions-callback/index.html">GetMissionsCallback</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Get the mission list <mark>This API is intended for application in JAVA code base</mark></p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="758945438%2FFunctions%2F908126483" anchor-label="getMissionsLite" id="758945438%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="get-missions-lite.html"><span>get</span><wbr><span>Missions</span><wbr><span><span>Lite</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="758945438%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="get-missions-lite.html"><span class="token function">getMissionsLite</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">success<span class="token operator">: </span><span class="token punctuation">(</span>missions<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html">List</a><span class="token operator">&lt;</span><a href="../../com.rakuten.gap.ads.mission_core.data/-mission-lite-data/index.html">MissionLiteData</a><span class="token operator">&gt;</span><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a><span class="token punctuation">, </span></span><span class="parameter ">failed<span class="token operator">: </span><span class="token punctuation">(</span>e<span class="token operator">: </span><a href="../../com.rakuten.gap.ads.mission_core.api.status/-rakuten-reward-a-p-i-error/index.html">RakutenRewardAPIError</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Get the mission list in lite version. Lite version of mission data only contain the necessary information for the mission. It does not contain the progress of the mission.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="605024836%2FFunctions%2F908126483" anchor-label="getMissionsLiteJava" id="605024836%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="get-missions-lite-java.html"><span>get</span><wbr><span>Missions</span><wbr><span>Lite</span><wbr><span><span>Java</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="605024836%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="get-missions-lite-java.html"><span class="token function">getMissionsLiteJava</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">callback<span class="token operator">: </span><a href="../../com.rakuten.gap.ads.mission_core.listeners.java/-get-missions-lite-callback/index.html">GetMissionsLiteCallback</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Get the mission list in lite version. Lite version of mission data only contain the necessary information for the mission. It does not contain the progress of the mission.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1759588558%2FFunctions%2F908126483" anchor-label="getPointHistory" id="-1759588558%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="get-point-history.html"><span>get</span><wbr><span>Point</span><wbr><span><span>History</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1759588558%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="get-point-history.html"><span class="token function">getPointHistory</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">success<span class="token operator">: </span><span class="token punctuation">(</span>pointHistory<span class="token operator">: </span><a href="../../com.rakuten.gap.ads.mission_core.data/-rakuten-reward-point-history/index.html">RakutenRewardPointHistory</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a><span class="token punctuation">, </span></span><span class="parameter ">failed<span class="token operator">: </span><span class="token punctuation">(</span>e<span class="token operator">: </span><a href="../../com.rakuten.gap.ads.mission_core.api.status/-rakuten-reward-a-p-i-error/index.html">RakutenRewardAPIError</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Get user's last 3 months point history</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1739889782%2FFunctions%2F908126483" anchor-label="getPointHistoryJava" id="1739889782%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="get-point-history-java.html"><span>get</span><wbr><span>Point</span><wbr><span>History</span><wbr><span><span>Java</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1739889782%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="get-point-history-java.html"><span class="token function">getPointHistoryJava</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">callback<span class="token operator">: </span><a href="../../com.rakuten.gap.ads.mission_core.listeners.java/-point-history-callback/index.html">PointHistoryCallback</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Get user's last 3 months point history <mark>This API is intended for application in JAVA code base</mark></p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-680431986%2FFunctions%2F908126483" anchor-label="getUnclaimedItems" id="-680431986%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="get-unclaimed-items.html"><span>get</span><wbr><span>Unclaimed</span><wbr><span><span>Items</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-680431986%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="get-unclaimed-items.html"><span class="token function">getUnclaimedItems</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">success<span class="token operator">: </span><span class="token punctuation">(</span>missions<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html">List</a><span class="token operator">&lt;</span><a href="../../com.rakuten.gap.ads.mission_core.data/-mission-achievement-data/index.html">MissionAchievementData</a><span class="token operator">&gt;</span><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a><span class="token punctuation">, </span></span><span class="parameter ">failed<span class="token operator">: </span><span class="token punctuation">(</span>e<span class="token operator">: </span><a href="../../com.rakuten.gap.ads.mission_core.api.status/-rakuten-reward-a-p-i-error/index.html">RakutenRewardAPIError</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Get the list of unclaimed items</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1297312739%2FFunctions%2F908126483" anchor-label="getUnclaimedItemsJava" id="1297312739%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="get-unclaimed-items-java.html"><span>get</span><wbr><span>Unclaimed</span><wbr><span>Items</span><wbr><span><span>Java</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1297312739%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="get-unclaimed-items-java.html"><span class="token function">getUnclaimedItemsJava</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">callback<span class="token operator">: </span><a href="../../com.rakuten.gap.ads.mission_core.listeners.java/-unclaimed-item-callback/index.html">UnclaimedItemCallback</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Get the list of unclaimed items <mark>This API is intended for application in JAVA code base</mark></p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1394145383%2FFunctions%2F908126483" anchor-label="init" id="1394145383%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="init.html"><span><span>init</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1394145383%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="init.html"><span class="token function">init</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">appCode<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Initialize Reward SDK with appCode</p></div><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="init.html"><span class="token function"><strike>init</strike></span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">appCode<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a><span class="token punctuation">, </span></span><span class="parameter ">token<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Initialize Reward SDK with token and appCode</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="2042211904%2FFunctions%2F908126483" anchor-label="logAction" id="2042211904%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="log-action.html"><span>log</span><wbr><span><span>Action</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="2042211904%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="log-action.html"><span class="token function">logAction</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">actionCode<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a><span class="token punctuation">, </span></span><span class="parameter ">success<span class="token operator">: </span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a><span class="token punctuation">, </span></span><span class="parameter ">failed<span class="token operator">: </span><span class="token punctuation">(</span>e<span class="token operator">: </span><a href="../../com.rakuten.gap.ads.mission_core.api.status/-rakuten-reward-a-p-i-error/index.html">RakutenRewardAPIError</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Log a mission action</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1969951113%2FFunctions%2F908126483" anchor-label="logActionJava" id="1969951113%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="log-action-java.html"><span>log</span><wbr><span>Action</span><wbr><span><span>Java</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1969951113%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="log-action-java.html"><span class="token function">logActionJava</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">actionCode<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a><span class="token punctuation">, </span></span><span class="parameter ">callback<span class="token operator">: </span><a href="../../com.rakuten.gap.ads.mission_core.listeners.java/-log-action-callback/index.html">LogActionCallback</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Log a mission action <mark>This API is intended for application in JAVA code base</mark></p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="508994431%2FFunctions%2F908126483" anchor-label="memberInfo" id="508994431%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="member-info.html"><span>member</span><wbr><span><span>Info</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="508994431%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="member-info.html"><span class="token function">memberInfo</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">success<span class="token operator">: </span><span class="token punctuation">(</span>sdkuser<span class="token operator">: </span><a href="../../com.rakuten.gap.ads.mission_core.data/-rakuten-reward-user/index.html">RakutenRewardUser</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a><span class="token punctuation">, </span></span><span class="parameter ">failed<span class="token operator">: </span><span class="token punctuation">(</span>e<span class="token operator">: </span><a href="../../com.rakuten.gap.ads.mission_core.api.status/-rakuten-reward-a-p-i-error/index.html">RakutenRewardAPIError</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Get the latest member info</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1958627020%2FFunctions%2F908126483" anchor-label="memberInfoJava" id="1958627020%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="member-info-java.html"><span>member</span><wbr><span>Info</span><wbr><span><span>Java</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1958627020%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="member-info-java.html"><span class="token function">memberInfoJava</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">callback<span class="token operator">: </span><a href="../../com.rakuten.gap.ads.mission_core.listeners.java/-member-info-callback/index.html">MemberInfoCallback</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Get the latest member info <mark>This API is intended for application in JAVA code base</mark></p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1343377463%2FFunctions%2F908126483" anchor-label="openHelpPage" id="1343377463%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="open-help-page.html"><span>open</span><wbr><span>Help</span><wbr><span><span>Page</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1343377463%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="open-help-page.html"><span class="token function">openHelpPage</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Open Rakuten Reward Help Page</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1570438460%2FFunctions%2F908126483" anchor-label="openPrivacyPage" id="1570438460%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="open-privacy-page.html"><span>open</span><wbr><span>Privacy</span><wbr><span><span>Page</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1570438460%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="open-privacy-page.html"><span class="token function">openPrivacyPage</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Open Rakuten Reward Privacy Policy Page</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-360266135%2FFunctions%2F908126483" anchor-label="openTCPage" id="-360266135%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="open-t-c-page.html"><span>open</span><wbr><span><span>TCPage</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-360266135%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="open-t-c-page.html"><span class="token function">openTCPage</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Open Rakuten Reward T&amp;C Page</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1831258083%2FFunctions%2F908126483" anchor-label="removeRakutenRewardListener" id="-1831258083%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="remove-rakuten-reward-listener.html"><span>remove</span><wbr><span>Rakuten</span><wbr><span>Reward</span><wbr><span><span>Listener</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1831258083%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="remove-rakuten-reward-listener.html"><span class="token function">removeRakutenRewardListener</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">listener<span class="token operator">: </span><a href="../../com.rakuten.gap.ads.mission_core.listeners/-rakuten-reward-listener/index.html">RakutenRewardListener</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Remove Event listener</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1361072733%2FFunctions%2F908126483" anchor-label="requestForConsent" id="1361072733%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="request-for-consent.html"><span>request</span><wbr><span>For</span><wbr><span><span>Consent</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1361072733%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="request-for-consent.html"><span class="token function">requestForConsent</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">requestConsentCallback<span class="token operator">: </span><span class="token punctuation">(</span><a href="../../com.rakuten.gap.ads.mission_core.status/-rakuten-reward-consent-status/index.html">RakutenRewardConsentStatus</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a><span class="token operator">?</span><span class="token operator"> = </span>null</span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Request for Consent if the user have not provide consent.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="999705919%2FFunctions%2F908126483" anchor-label="requestForConsentJava" id="999705919%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="request-for-consent-java.html"><span>request</span><wbr><span>For</span><wbr><span>Consent</span><wbr><span><span>Java</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="999705919%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="request-for-consent-java.html"><span class="token function">requestForConsentJava</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">callback<span class="token operator">: </span><a href="../../com.rakuten.gap.ads.mission_core.listeners.java/-request-for-consent-callback/index.html">RequestForConsentCallback</a><span class="token operator">?</span><span class="token operator"> = </span>null</span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Request for Consent if the user have not provide consent. <mark>This API is intended for application in JAVA code base</mark></p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1211962348%2FFunctions%2F908126483" anchor-label="setRa" id="1211962348%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="set-ra.html"><span>set</span><wbr><span><span>Ra</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1211962348%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="set-ra.html"><span class="token function">setRa</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">ra<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Set Ra cookie</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="927583680%2FFunctions%2F908126483" anchor-label="setRaeToken" id="927583680%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="set-rae-token.html"><span>set</span><wbr><span>Rae</span><wbr><span><span>Token</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="927583680%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="set-rae-token.html"><span class="token function">setRaeToken</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">token<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Set RAE token</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-179623863%2FFunctions%2F908126483" anchor-label="setRIdToken" id="-179623863%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="set-r-id-token.html"><span>set</span><wbr><span>RId</span><wbr><span><span>Token</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-179623863%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="set-r-id-token.html"><span class="token function">setRIdToken</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">token<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Set RID token</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="256610491%2FFunctions%2F908126483" anchor-label="setRp" id="256610491%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="set-rp.html"><span>set</span><wbr><span><span>Rp</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="256610491%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="set-rp.html"><span class="token function">setRp</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">rp<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Set Rp cookie</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-380290747%2FFunctions%2F908126483" anchor-label="setRz" id="-380290747%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="set-rz.html"><span>set</span><wbr><span><span>Rz</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-380290747%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="set-rz.html"><span class="token function">setRz</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">rz<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Set Rz cookie</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1583889926%2FFunctions%2F908126483" anchor-label="showConsentBanner" id="1583889926%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="show-consent-banner.html"><span>show</span><wbr><span>Consent</span><wbr><span><span>Banner</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1583889926%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="show-consent-banner.html"><span class="token function">showConsentBanner</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">requestConsentCallback<span class="token operator">: </span><span class="token punctuation">(</span><a href="../../com.rakuten.gap.ads.mission_core.status/-rakuten-reward-consent-status/index.html">RakutenRewardConsentStatus</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html">Unit</a><span class="token operator">?</span><span class="token operator"> = </span>null</span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Show a notification banner if user haven't provide consent.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-483395530%2FFunctions%2F908126483" anchor-label="showConsentBannerJava" id="-483395530%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="show-consent-banner-java.html"><span>show</span><wbr><span>Consent</span><wbr><span>Banner</span><wbr><span><span>Java</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-483395530%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="show-consent-banner-java.html"><span class="token function">showConsentBannerJava</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">callback<span class="token operator">: </span><a href="../../com.rakuten.gap.ads.mission_core.listeners.java/-request-for-consent-callback/index.html">RequestForConsentCallback</a><span class="token operator">?</span><span class="token operator"> = </span>null</span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Show a notification banner if user haven't provide consent. <mark>This API is intended for application in JAVA code base</mark></p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1304680317%2FFunctions%2F908126483" anchor-label="startSession" id="1304680317%2FFunctions%2F908126483" data-filterable-set=":mission-core:dokkaHtmlPartial/release"></a>
+          <div class="table-row" data-filterable-current=":mission-core:dokkaHtmlPartial/release" data-filterable-set=":mission-core:dokkaHtmlPartial/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="start-session.html"><span>start</span><wbr><span><span>Session</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1304680317%2FFunctions%2F908126483"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":mission-core:dokkaHtmlPartial/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-static/index.html"><span class="token annotation builtin">JvmStatic</span></a></div></div><span class="token keyword">fun </span><a href="start-session.html"><span class="token function">startSession</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Start SDK session.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      <div class="footer">
+        <span class="go-to-top-icon"><a href="#content" id="go-to-top-link"></a></span><span>© 2024 Copyright</span><span class="pull-right"><span>Generated by </span><a href="https://github.com/Kotlin/dokka"><span>dokka</span><span class="padded-icon"></span></a></span>
+      </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
