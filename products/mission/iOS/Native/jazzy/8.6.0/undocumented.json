@@ -1,0 +1,705 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/JSExtension/RewardJS.swift",
+      "line": 12,
+      "symbol": "RewardJSError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/JSExtension/RewardJS.swift",
+      "line": 13,
+      "symbol": "RewardJSError.invalidAppcode",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/JSExtension/RewardJS.swift",
+      "line": 14,
+      "symbol": "RewardJSError.failToGetTimeInterval",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/JSExtension/RewardJS.swift",
+      "line": 15,
+      "symbol": "RewardJSError.failToCreateCookie",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/JSExtension/RewardJS.swift",
+      "line": 16,
+      "symbol": "RewardJSError.failToEncodeAppcode",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/JSExtension/RewardJS.swift",
+      "line": 17,
+      "symbol": "RewardJSError.unknown",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/JSExtension/RewardJS.swift",
+      "line": 20,
+      "symbol": "RewardJS",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/JSExtension/RewardJS.swift",
+      "line": 21,
+      "symbol": "RewardJS.shared",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/JSExtension/RewardJS.swift",
+      "line": 24,
+      "symbol": "RewardJS.setupWebView(appcode:domain:config:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/JSExtension/RewardScriptMessageHandler.swift",
+      "line": 12,
+      "symbol": "RewardScriptMessageHandler",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/JSExtension/RewardScriptMessageHandler.swift",
+      "line": 14,
+      "symbol": "RewardScriptMessageHandler.shared",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/JSExtension/RewardScriptMessageHandler.swift",
+      "line": 28,
+      "symbol": "RewardScriptMessageHandler.userContentController(_:didReceive:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/Missions/Shared/Models/UnclaimedItem.swift",
+      "line": 55,
+      "symbol": "UnclaimedItem.init(mission:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/APIs/Members/MemberPointRankObject.swift",
+      "line": 15,
+      "symbol": "RakutenReward.MemberPointRankObject.memberPoints",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/APIs/Missions/Claim/PointClaimScreenEventObject.swift",
+      "line": 21,
+      "symbol": "PointClaimScreenEventObjc.PointClaimScreenEventObjcDidFailToShow.error",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/APIs/Missions/Claim/PointClaimScreenEventObject.swift",
+      "line": 39,
+      "symbol": "PointClaimScreenEventObjc.PointClaimScreenEventObjcDidFailToClaim.error",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/APIs/Missions/Claim/PointClaimScreenEventObject.swift",
+      "line": 48,
+      "symbol": "PointClaimScreenEventObjc.PointClaimScreenEventObjcDidClaimSuccessfully.unclaimedItemObject",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/APIs/Missions/Claim/PointClaimScreenEventObject.swift",
+      "line": 57,
+      "symbol": "PointClaimScreenEventObjc.PointClaimScreenEventObjcDidUpdateIchibaAds.deeplinkUrl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/APIs/Missions/MissionList/MissionListAPIObjc.swift",
+      "line": 30,
+      "symbol": "RakutenReward.getMissionLiteListObjc(completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/APIs/Missions/MissionList/MissionListAPIObjc.swift",
+      "line": 42,
+      "symbol": "RakutenReward.getMissionDetailsObjc(actionCode:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/APIs/Notifications/NotificationTypeObject.swift",
+      "line": 16,
+      "symbol": "NotificationTypeObjc.NotificationTypeObjcNONE.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/APIs/Notifications/NotificationTypeObject.swift",
+      "line": 23,
+      "symbol": "NotificationTypeObjc.NotificationTypeObjcBANNER.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/APIs/Notifications/NotificationTypeObject.swift",
+      "line": 30,
+      "symbol": "NotificationTypeObjc.NotificationTypeObjcMODAL.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/APIs/Notifications/NotificationTypeObject.swift",
+      "line": 37,
+      "symbol": "NotificationTypeObjc.NotificationTypeObjcCUSTOM.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/APIs/Notifications/NotificationTypeObject.swift",
+      "line": 44,
+      "symbol": "NotificationTypeObjc.NotificationTypeObjcBanner50.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/APIs/Notifications/NotificationTypeObject.swift",
+      "line": 51,
+      "symbol": "NotificationTypeObjc.NotificationTypeObjcBanner250.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/RPGRequestErrorObjc.swift",
+      "line": 16,
+      "symbol": "RPGRequestErrorObjc.RPGRequestErrorObjcTokenExpire.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/RPGRequestErrorObjc.swift",
+      "line": 23,
+      "symbol": "RPGRequestErrorObjc.RPGRequestErrorObjcServerError.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/RPGRequestErrorObjc.swift",
+      "line": 30,
+      "symbol": "RPGRequestErrorObjc.RPGRequestErrorObjcBadRequest.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/RPGRequestErrorObjc.swift",
+      "line": 37,
+      "symbol": "RPGRequestErrorObjc.RPGRequestErrorObjcLegalReason.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/RewardSDKSessionErrorObjc.swift",
+      "line": 18,
+      "symbol": "RewardSDKSessionErrorObjc.RewardSDKSessionErrorObjcUserNotFound.error",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/RewardSDKSessionErrorObjc.swift",
+      "line": 25,
+      "symbol": "RewardSDKSessionErrorObjc.RewardSDKSessionErrorObjcUserNotFound.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/RewardSDKSessionErrorObjc.swift",
+      "line": 37,
+      "symbol": "RewardSDKSessionErrorObjc.RewardSDKSessionErrorObjcAppcodeInvalid.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/RewardSDKSessionErrorObjc.swift",
+      "line": 49,
+      "symbol": "RewardSDKSessionErrorObjc.RewardSDKSessionErrorObjcBundleError.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/RewardSDKSessionErrorObjc.swift",
+      "line": 61,
+      "symbol": "RewardSDKSessionErrorObjc.RewardSDKSessionErrorObjcLoginRequired.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/RewardSDKSessionErrorObjc.swift",
+      "line": 73,
+      "symbol": "RewardSDKSessionErrorObjc.RewardSDKSessionErrorObjcInvalidTokenType.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/RewardSDKSessionErrorObjc.swift",
+      "line": 85,
+      "symbol": "RewardSDKSessionErrorObjc.RewardSDKSessionErrorObjcCannotRetrieveSessionToken.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/RewardSDKSessionErrorObjc.swift",
+      "line": 97,
+      "symbol": "RewardSDKSessionErrorObjc.RewardSDKSessionErrorObjcCannotLogOutOnServer.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/RewardSDKSessionErrorObjc.swift",
+      "line": 109,
+      "symbol": "RewardSDKSessionErrorObjc.RewardSDKSessionErrorObjcUserNotConsent.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/SDKErrorObjc.swift",
+      "line": 21,
+      "symbol": "SDKErrorObjc.SDKErrorObjcNoMissionFound.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/SDKErrorObjc.swift",
+      "line": 33,
+      "symbol": "SDKErrorObjc.SDKErrorObjcMissionReachedCap.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/SDKErrorObjc.swift",
+      "line": 45,
+      "symbol": "SDKErrorObjc.SDKErrorObjcNoUnclaimedItemFound.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/SDKErrorObjc.swift",
+      "line": 57,
+      "symbol": "SDKErrorObjc.SDKErrorObjcSessionNotInitialized.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/SDKErrorObjc.swift",
+      "line": 69,
+      "symbol": "SDKErrorObjc.SDKErrorObjcFeatureDisabledByUser.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/SDKErrorObjc.swift",
+      "line": 81,
+      "symbol": "SDKErrorObjc.SDKErrorObjcSDKStatusNotOnline.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/SDKErrorObjc.swift",
+      "line": 93,
+      "symbol": "SDKErrorObjc.SDKErrorObjcSDKStatusUserNotConsent.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/SDKErrorObjc.swift",
+      "line": 98,
+      "symbol": "SDKErrorObjc.SDKErrorObjcCheckIsSpsUserError",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/SDKErrorObjc.swift",
+      "line": 104,
+      "symbol": "SDKErrorObjc.SDKErrorObjcCheckIsSpsUserError.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/SDKErrorObjc.swift",
+      "line": 109,
+      "symbol": "SDKErrorObjc.SDKErrorObjcUnexpectedError",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/SDKErrorObjc.swift",
+      "line": 115,
+      "symbol": "SDKErrorObjc.SDKErrorObjcUnexpectedError.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/SDKErrorObjc.swift",
+      "line": 120,
+      "symbol": "SDKErrorObjc.SDKErrorObjcSpsFeatureDisabled",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/SDKErrorObjc.swift",
+      "line": 126,
+      "symbol": "SDKErrorObjc.SDKErrorObjcSpsFeatureDisabled.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/SDKErrorObjc.swift",
+      "line": 131,
+      "symbol": "SDKErrorObjc.SDKErrorObjcRegisterSpsUserError",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/SDKErrorObjc.swift",
+      "line": 137,
+      "symbol": "SDKErrorObjc.SDKErrorObjcRegisterSpsUserError.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/SDKErrorObjc.swift",
+      "line": 142,
+      "symbol": "SDKErrorObjc.SDKErrorObjcSpsRegisterUserDidNotFinish",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/SDKErrorObjc.swift",
+      "line": 148,
+      "symbol": "SDKErrorObjc.SDKErrorObjcSpsRegisterUserDidNotFinish.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/SDKErrorObjc.swift",
+      "line": 153,
+      "symbol": "SDKErrorObjc.SDKErrorObjcOnMaintenanceMode",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/ObjectiveCWrappers/Shared/Errors/SDKErrorObjc.swift",
+      "line": 158,
+      "symbol": "SDKErrorObjc.SDKErrorObjcOnMaintenanceMode.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/RakutenReward/APIs/RakutenReward.swift",
+      "line": 20,
+      "symbol": "RakutenReward.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/RakutenReward/APIs/RakutenReward.swift",
+      "line": 84,
+      "symbol": "RakutenReward.SDKEnvironment.production",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/RakutenReward/APIs/RakutenReward.swift",
+      "line": 84,
+      "symbol": "RakutenReward.SDKEnvironment.staging",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/RakutenReward/APIs/RewardConfiguration.swift",
+      "line": 131,
+      "symbol": "AppTheme.simple",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/RakutenReward/APIs/RewardConfiguration.swift",
+      "line": 132,
+      "symbol": "AppTheme.panda",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/RakutenReward/APIs/RewardConfiguration.swift",
+      "line": 172,
+      "symbol": "RewardConfiguration.setAppLanguage(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/RakutenReward/TypeAliases/RakutenRewardTypeAliases.swift",
+      "line": 9,
+      "symbol": "AppCode",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/RakutenReward/TypeAliases/RakutenRewardTypeAliases.swift",
+      "line": 10,
+      "symbol": "AccessToken",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/RakutenReward/TypeAliases/RakutenRewardTypeAliases.swift",
+      "line": 11,
+      "symbol": "RetryFunction",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/Shared/Errors/Enums/SDKError.swift",
+      "line": 35,
+      "symbol": "RakutenReward.SDKError.checkIsSpsUserError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/Shared/Errors/Enums/SDKError.swift",
+      "line": 37,
+      "symbol": "RakutenReward.SDKError.unexpectedError(message:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/Shared/Errors/Enums/SDKError.swift",
+      "line": 41,
+      "symbol": "RakutenReward.SDKError.spsFeatureIsDisabled",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/Shared/Errors/Enums/SDKError.swift",
+      "line": 43,
+      "symbol": "RakutenReward.SDKError.spsRegisterUserDidNotFinish",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/Shared/Errors/Enums/SDKError.swift",
+      "line": 45,
+      "symbol": "RakutenReward.SDKError.spsRegisterUserError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/Shared/Errors/Enums/SDKError.swift",
+      "line": 47,
+      "symbol": "RakutenReward.SDKError.onMaintenanceMode",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/UserConsent/APIs/RakutenReward+UserConsent.swift",
+      "line": 44,
+      "symbol": "RakutenReward.requestForConsent(completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/UserConsent/APIs/RakutenReward+UserConsent.swift",
+      "line": 69,
+      "symbol": "RakutenReward.showConsentBanner(completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/UserConsent/APIs/RakutenRewardConsentStatus.swift",
+      "line": 11,
+      "symbol": "RakutenRewardConsentStatus",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/UserConsent/APIs/RakutenRewardConsentStatus.swift",
+      "line": 12,
+      "symbol": "RakutenRewardConsentStatus.consentProvided",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/UserConsent/APIs/RakutenRewardConsentStatus.swift",
+      "line": 13,
+      "symbol": "RakutenRewardConsentStatus.consentNotProvided",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/UserConsent/APIs/RakutenRewardConsentStatus.swift",
+      "line": 14,
+      "symbol": "RakutenRewardConsentStatus.consentUIAlreadyPresented",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/UserConsent/APIs/RakutenRewardConsentStatus.swift",
+      "line": 15,
+      "symbol": "RakutenRewardConsentStatus.consentFailed",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/RewardSDKAPIs/UserConsent/APIs/RakutenRewardConsentStatus.swift",
+      "line": 16,
+      "symbol": "RakutenRewardConsentStatus.consentProvidedRestartSessionFailed",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/SPS/APIs/RakutenMissionSps.swift",
+      "line": 23,
+      "symbol": "RakutenMissionSps.shared",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/SPS/SPSHome/SPSHomeVC.swift",
+      "line": 181,
+      "symbol": "SPSHomeVC.webView(_:decidePolicyFor:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/SPS/SPSWebAuth/RakutenMissionSps+WebAuth.swift",
+      "line": 15,
+      "symbol": "RakutenMissionSps.initSps(platform:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Extensions/Array+Safe.swift",
+      "line": 12,
+      "symbol": "Array.subscript(safeIndex:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Extensions/UIDevice+Extension.swift",
+      "line": 13,
+      "symbol": "UIDevice.modelName",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Extensions/UIDevice+Extension.swift",
+      "line": 25,
+      "symbol": "UIDevice.isSmallScreenDevice()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Extensions/UIDevice+Extension.swift",
+      "line": 37,
+      "symbol": "UIDevice.mapToDevice(identifier:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Extensions/URLRequest+Extension.swift",
+      "line": 17,
+      "symbol": "URLRequest.HTTPMethod.get",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Extensions/URLRequest+Extension.swift",
+      "line": 18,
+      "symbol": "URLRequest.HTTPMethod.put",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Extensions/URLRequest+Extension.swift",
+      "line": 19,
+      "symbol": "URLRequest.HTTPMethod.post",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Extensions/URLRequest+Extension.swift",
+      "line": 20,
+      "symbol": "URLRequest.HTTPMethod.delete",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Extensions/URLRequest+Extension.swift",
+      "line": 21,
+      "symbol": "URLRequest.HTTPMethod.head",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Extensions/URLRequest+Extension.swift",
+      "line": 22,
+      "symbol": "URLRequest.HTTPMethod.options",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Extensions/URLRequest+Extension.swift",
+      "line": 23,
+      "symbol": "URLRequest.HTTPMethod.trace",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Extensions/URLRequest+Extension.swift",
+      "line": 24,
+      "symbol": "URLRequest.HTTPMethod.connect",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Storyboards/Storyboard+Protocols.swift",
+      "line": 19,
+      "symbol": "UICollectionReusableView.viewType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Storyboards/Storyboard+Protocols.swift",
+      "line": 20,
+      "symbol": "UICollectionReusableView.storyboardIdentifier",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Storyboards/Storyboard+Protocols.swift",
+      "line": 24,
+      "symbol": "UITableViewCell.viewType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK/RakutenRewardNativeSDK/Shared/Utilities/Storyboards/Storyboard+Protocols.swift",
+      "line": 25,
+      "symbol": "UITableViewCell.storyboardIdentifier",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/derick.derick/Projects/NativeSDK/rakuten-reward-sdk-ios-native/RakutenRewardNativeSDK"
+}
