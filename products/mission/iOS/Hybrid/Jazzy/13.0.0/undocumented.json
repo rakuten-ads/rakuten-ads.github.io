@@ -1,0 +1,1916 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/AdSDK/APIs/Ads/Banner/Delegates/RewardBannerAdDelegate.swift",
+      "line": 34,
+      "symbol": "RakutenADBannerViewDelegate",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/AdSDK/APIs/Ads/Banner/Views/RewardAdBannerView.swift",
+      "line": 11,
+      "symbol": "RakutenADBannerView",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/AdSDK/APIs/Ads/Banner/Views/RewardAdBannerView.swift",
+      "line": 20,
+      "symbol": "RewardAdbannerView.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/AdSDK/APIs/Ads/Banner/Views/RewardAdBannerView.swift",
+      "line": 73,
+      "symbol": "RewardAdbannerView.load()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/AdSDK/APIs/Ads/Banner/Views/RewardAdBannerView.swift",
+      "line": 177,
+      "symbol": "RewardAdbannerView.didMoveToSuperview()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/AdSDK/APIs/Ads/Interstial/Controllers/RewardAdInterstitial.swift",
+      "line": 10,
+      "symbol": "RakutenADInterstitial",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/AdSDK/APIs/Ads/Interstial/Controllers/RewardAdInterstitial.swift",
+      "line": 84,
+      "symbol": "RewardAdInterstitial.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/AdSDK/APIs/Ads/Interstial/Delegates/RewardAdInterstitialDelegate.swift",
+      "line": 12,
+      "symbol": "RewardAdInterstitialDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/AdSDK/APIs/Ads/Interstial/Delegates/RewardAdInterstitialDelegate.swift",
+      "line": 39,
+      "symbol": "RakutenADInterstitialDelegate",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/AdSDK/APIs/Ads/RakutenRewardAds.swift",
+      "line": 21,
+      "symbol": "RakutenRewardAds.isDebug",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/RewardSDKAPIs/Actions/Handlers/ActionRequestHandler.swift",
+      "line": 11,
+      "symbol": "LogActionCallback",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/RewardSDKAPIs/Actions/Handlers/ActionRequestHandler.swift",
+      "line": 12,
+      "symbol": "LogActionCallback.succesful",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/RewardSDKAPIs/Actions/Handlers/ActionRequestHandler.swift",
+      "line": 13,
+      "symbol": "LogActionCallback.successfulMissionAchieved",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/RewardSDKAPIs/Actions/Handlers/ActionRequestHandler.swift",
+      "line": 14,
+      "symbol": "LogActionCallback.sdkFeatureNotEnabled",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/RewardSDKAPIs/Actions/Handlers/ActionRequestHandler.swift",
+      "line": 15,
+      "symbol": "LogActionCallback.invalidAppcode",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/RewardSDKAPIs/Actions/Handlers/ActionRequestHandler.swift",
+      "line": 16,
+      "symbol": "LogActionCallback.invalidActionCode",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/RewardSDKAPIs/Actions/Handlers/ActionRequestHandler.swift",
+      "line": 17,
+      "symbol": "LogActionCallback.userNotConsent",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/RewardSDKAPIs/Actions/Handlers/ActionRequestHandler.swift",
+      "line": 18,
+      "symbol": "LogActionCallback.noConnectionAppcodeSavedForRetry",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/RewardSDKAPIs/Actions/Handlers/ActionRequestHandler.swift",
+      "line": 19,
+      "symbol": "LogActionCallback.unexpectedError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/RewardSDKAPIs/Actions/Handlers/ActionRequestHandler.swift",
+      "line": 20,
+      "symbol": "LogActionCallback.missionReachedCap",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/RewardSDKAPIs/RakutenReward/RakutenReward.swift",
+      "line": 50,
+      "symbol": "RakutenReward.SDKEnvironment",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/RewardSDKAPIs/RakutenReward/RakutenReward.swift",
+      "line": 51,
+      "symbol": "RakutenReward.SDKEnvironment.production",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/RewardSDKAPIs/RakutenReward/RakutenReward.swift",
+      "line": 51,
+      "symbol": "RakutenReward.SDKEnvironment.staging",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/RewardSDKAPIs/RakutenReward/RakutenReward.swift",
+      "line": 54,
+      "symbol": "RakutenReward.environment",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 31,
+      "symbol": "RWReachabilityError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 32,
+      "symbol": "RWReachabilityError.failedToCreateWithAddress(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 33,
+      "symbol": "RWReachabilityError.failedToCreateWithHostname(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 34,
+      "symbol": "RWReachabilityError.unableToSetCallback",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 35,
+      "symbol": "RWReachabilityError.unableToSetDispatchQueue",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 38,
+      "symbol": "RWReachabilityChangedNotification",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 51,
+      "symbol": "RWReachability",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 53,
+      "symbol": "RWReachability.NetworkReachable",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 54,
+      "symbol": "RWReachability.NetworkUnreachable",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 56,
+      "symbol": "RWReachability.NetworkStatus",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 58,
+      "symbol": "RWReachability.NetworkStatus.notReachable",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 58,
+      "symbol": "RWReachability.NetworkStatus.reachableViaWWAN",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 58,
+      "symbol": "RWReachability.NetworkStatus.reachableViaWiFi",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 69,
+      "symbol": "RWReachability.whenReachable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 70,
+      "symbol": "RWReachability.whenUnreachable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 71,
+      "symbol": "RWReachability.reachableOnWWAN",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 74,
+      "symbol": "RWReachability.notificationCenter",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 76,
+      "symbol": "RWReachability.currentReachabilityString",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 80,
+      "symbol": "RWReachability.currentReachabilityStatus",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 108,
+      "symbol": "RWReachability.init(reachabilityRef:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 113,
+      "symbol": "RWReachability.init(hostname:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 120,
+      "symbol": "RWReachability.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 142,
+      "symbol": "RWReachability",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 145,
+      "symbol": "RWReachability.startNotifier()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 173,
+      "symbol": "RWReachability.stopNotifier()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 182,
+      "symbol": "RWReachability.isReachable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 200,
+      "symbol": "RWReachability.isReachableViaWWAN",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 205,
+      "symbol": "RWReachability.isReachableViaWiFi",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Network/Reachability/RWReachability.swift",
+      "line": 217,
+      "symbol": "RWReachability.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/GeneralExtensions/URLCheck.swift",
+      "line": 75,
+      "symbol": "URLCheck.disableSigninPageRegistrationLink(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 3,
+      "symbol": "SwKeyStore",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 5,
+      "symbol": "SwKeyStore.SecError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 6,
+      "symbol": "SwKeyStore.SecError.unimplemented",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 7,
+      "symbol": "SwKeyStore.SecError.param",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 8,
+      "symbol": "SwKeyStore.SecError.allocate",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 9,
+      "symbol": "SwKeyStore.SecError.notAvailable",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 10,
+      "symbol": "SwKeyStore.SecError.authFailed",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 11,
+      "symbol": "SwKeyStore.SecError.duplicateItem",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 12,
+      "symbol": "SwKeyStore.SecError.itemNotFound",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 13,
+      "symbol": "SwKeyStore.SecError.interactionNotAllowed",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 14,
+      "symbol": "SwKeyStore.SecError.decode",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 15,
+      "symbol": "SwKeyStore.SecError.missingEntitlement",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 17,
+      "symbol": "SwKeyStore.SecError.debugLevel",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 33,
+      "symbol": "SwKeyStore.upsertKey(_:keyTag:options:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 56,
+      "symbol": "SwKeyStore.getKey(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 76,
+      "symbol": "SwKeyStore.delKey(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 86,
+      "symbol": "SwKeyConvert",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 88,
+      "symbol": "SwKeyConvert.SwError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 89,
+      "symbol": "SwKeyConvert.SwError.invalidKey",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 90,
+      "symbol": "SwKeyConvert.SwError.badPassphrase",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 91,
+      "symbol": "SwKeyConvert.SwError.keyNotEncrypted",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 93,
+      "symbol": "SwKeyConvert.SwError.debugLevel",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 103,
+      "symbol": "SwKeyConvert.PrivateKey",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 105,
+      "symbol": "SwKeyConvert.PrivateKey.pemToPKCS1DER(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 115,
+      "symbol": "SwKeyConvert.PrivateKey.derToPKCS1PEM(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 119,
+      "symbol": "SwKeyConvert.PrivateKey.EncMode",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 121,
+      "symbol": "SwKeyConvert.PrivateKey.encryptPEM(_:passphrase:mode:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 131,
+      "symbol": "SwKeyConvert.PrivateKey.decryptPEM(_:passphrase:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 145,
+      "symbol": "SwKeyConvert.PublicKey",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 147,
+      "symbol": "SwKeyConvert.PublicKey.pemToPKCS1DER(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 157,
+      "symbol": "SwKeyConvert.PublicKey.derToPKCS1PEM(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 161,
+      "symbol": "SwKeyConvert.PublicKey.derToPKCS8PEM(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 170,
+      "symbol": "PKCS8",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 172,
+      "symbol": "PKCS8.PrivateKey",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 175,
+      "symbol": "PKCS8.PrivateKey.getPKCS1DEROffset(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 228,
+      "symbol": "PKCS8.PrivateKey.stripHeaderIfAny(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 235,
+      "symbol": "PKCS8.PrivateKey.hasCorrectHeader(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 241,
+      "symbol": "PKCS8.PublicKey",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 243,
+      "symbol": "PKCS8.PublicKey.addHeader(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 275,
+      "symbol": "PKCS8.PublicKey.getPKCS1DEROffset(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 327,
+      "symbol": "PKCS8.PublicKey.stripHeaderIfAny(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 334,
+      "symbol": "PKCS8.PublicKey.hasCorrectHeader(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 359,
+      "symbol": "PEM",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 361,
+      "symbol": "PEM.SwError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 362,
+      "symbol": "PEM.SwError.parse(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 363,
+      "symbol": "PEM.SwError.badPassphrase",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 364,
+      "symbol": "PEM.SwError.keyNotEncrypted",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 366,
+      "symbol": "PEM.SwError.debugLevel",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 376,
+      "symbol": "PEM.PrivateKey",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 378,
+      "symbol": "PEM.PrivateKey.toDER(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 388,
+      "symbol": "PEM.PrivateKey.toPEM(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 412,
+      "symbol": "PEM.PublicKey",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 414,
+      "symbol": "PEM.PublicKey.toDER(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 424,
+      "symbol": "PEM.PublicKey.toPEM(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 441,
+      "symbol": "PEM.EncryptedPrivateKey",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 443,
+      "symbol": "PEM.EncryptedPrivateKey.EncMode",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 444,
+      "symbol": "PEM.EncryptedPrivateKey.EncMode.aes128CBC",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 444,
+      "symbol": "PEM.EncryptedPrivateKey.EncMode.aes256CBC",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 447,
+      "symbol": "PEM.EncryptedPrivateKey.toDER(_:passphrase:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 472,
+      "symbol": "PEM.EncryptedPrivateKey.toPEM(_:passphrase:mode:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 585,
+      "symbol": "CC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 587,
+      "symbol": "CC.CCCryptorStatus",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 588,
+      "symbol": "CC.CCError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 589,
+      "symbol": "CC.CCError.paramError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 590,
+      "symbol": "CC.CCError.bufferTooSmall",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 591,
+      "symbol": "CC.CCError.memoryFailure",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 592,
+      "symbol": "CC.CCError.alignmentError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 593,
+      "symbol": "CC.CCError.decodeError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 594,
+      "symbol": "CC.CCError.unimplemented",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 595,
+      "symbol": "CC.CCError.overflow",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 596,
+      "symbol": "CC.CCError.rngFailure",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 598,
+      "symbol": "CC.CCError.debugLevel",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 615,
+      "symbol": "CC.generateRandom(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 624,
+      "symbol": "CC.CCDigestAlgorithm",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 625,
+      "symbol": "CC.DigestAlgorithm",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 626,
+      "symbol": "CC.DigestAlgorithm.none",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 627,
+      "symbol": "CC.DigestAlgorithm.md5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 628,
+      "symbol": "CC.DigestAlgorithm.rmd128",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 628,
+      "symbol": "CC.DigestAlgorithm.rmd160",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 628,
+      "symbol": "CC.DigestAlgorithm.rmd256",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 628,
+      "symbol": "CC.DigestAlgorithm.rmd320",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 629,
+      "symbol": "CC.DigestAlgorithm.sha1",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 630,
+      "symbol": "CC.DigestAlgorithm.sha224",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 630,
+      "symbol": "CC.DigestAlgorithm.sha256",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 630,
+      "symbol": "CC.DigestAlgorithm.sha384",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 630,
+      "symbol": "CC.DigestAlgorithm.sha512",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 637,
+      "symbol": "CC.digest(_:alg:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 648,
+      "symbol": "CC.CCHmacAlgorithm",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 649,
+      "symbol": "CC.HMACAlg",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 650,
+      "symbol": "CC.HMACAlg.md5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 650,
+      "symbol": "CC.HMACAlg.sha1",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 650,
+      "symbol": "CC.HMACAlg.sha224",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 650,
+      "symbol": "CC.HMACAlg.sha256",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 650,
+      "symbol": "CC.HMACAlg.sha384",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 650,
+      "symbol": "CC.HMACAlg.sha512",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 664,
+      "symbol": "CC.HMAC(_:alg:key:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 675,
+      "symbol": "CC.CCOperation",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 676,
+      "symbol": "CC.OpMode",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 677,
+      "symbol": "CC.OpMode.decrypt",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 677,
+      "symbol": "CC.OpMode.encrypt",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 680,
+      "symbol": "CC.CCMode",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 681,
+      "symbol": "CC.BlockMode",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 682,
+      "symbol": "CC.BlockMode.cbc",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 682,
+      "symbol": "CC.BlockMode.cfb",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 682,
+      "symbol": "CC.BlockMode.cfb8",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 682,
+      "symbol": "CC.BlockMode.ctr",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 682,
+      "symbol": "CC.BlockMode.ecb",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 682,
+      "symbol": "CC.BlockMode.f8",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 682,
+      "symbol": "CC.BlockMode.lrw",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 682,
+      "symbol": "CC.BlockMode.ofb",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 682,
+      "symbol": "CC.BlockMode.rc4",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 682,
+      "symbol": "CC.BlockMode.xts",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 691,
+      "symbol": "CC.AuthBlockMode",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 692,
+      "symbol": "CC.AuthBlockMode.ccm",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 692,
+      "symbol": "CC.AuthBlockMode.gcm",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 695,
+      "symbol": "CC.CCAlgorithm",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 696,
+      "symbol": "CC.Algorithm",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 697,
+      "symbol": "CC.Algorithm.aes",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 697,
+      "symbol": "CC.Algorithm.blowfish",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 697,
+      "symbol": "CC.Algorithm.cast",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 697,
+      "symbol": "CC.Algorithm.des",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 697,
+      "symbol": "CC.Algorithm.rc2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 697,
+      "symbol": "CC.Algorithm.rc4",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 697,
+      "symbol": "CC.Algorithm.threeDES",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 712,
+      "symbol": "CC.CCPadding",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 713,
+      "symbol": "CC.Padding",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 714,
+      "symbol": "CC.Padding.noPadding",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 714,
+      "symbol": "CC.Padding.pkcs7Padding",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 717,
+      "symbol": "CC.crypt(_:blockMode:algorithm:padding:data:key:iv:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 766,
+      "symbol": "CC.cryptAuth(_:blockMode:algorithm:data:aData:key:iv:tagLength:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 789,
+      "symbol": "CC.digestAvailable()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 794,
+      "symbol": "CC.randomAvailable()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 798,
+      "symbol": "CC.hmacAvailable()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 802,
+      "symbol": "CC.cryptorAvailable()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 810,
+      "symbol": "CC.available()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 897,
+      "symbol": "CC.GCM",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 899,
+      "symbol": "CC.GCM.crypt(_:algorithm:data:key:iv:aData:tagLength:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 921,
+      "symbol": "CC.GCM.available()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 939,
+      "symbol": "CC.CCM",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 941,
+      "symbol": "CC.CCM.crypt(_:algorithm:data:key:iv:aData:tagLength:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1003,
+      "symbol": "CC.CCM.available()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1028,
+      "symbol": "CC.RSA",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1030,
+      "symbol": "CC.RSA.CCAsymmetricPadding",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1032,
+      "symbol": "CC.RSA.AsymmetricPadding",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1033,
+      "symbol": "CC.RSA.AsymmetricPadding.pkcs1",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1034,
+      "symbol": "CC.RSA.AsymmetricPadding.oaep",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1037,
+      "symbol": "CC.RSA.AsymmetricSAPadding",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1038,
+      "symbol": "CC.RSA.AsymmetricSAPadding.pkcs15",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1039,
+      "symbol": "CC.RSA.AsymmetricSAPadding.pss",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1042,
+      "symbol": "CC.RSA.generateKeyPair(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1063,
+      "symbol": "CC.RSA.encrypt(_:derKey:tag:padding:digest:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1090,
+      "symbol": "CC.RSA.decrypt(_:derKey:tag:padding:digest:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1150,
+      "symbol": "CC.RSA.sign(_:derKey:padding:digest:saltLen:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1186,
+      "symbol": "CC.RSA.verify(_:derKey:padding:digest:saltLen:signedData:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1386,
+      "symbol": "CC.RSA.available()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1499,
+      "symbol": "CC.DH",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1501,
+      "symbol": "CC.DH.DHParam",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1502,
+      "symbol": "CC.DH.DHParam.rfc3526Group5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1506,
+      "symbol": "CC.DH.DH",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1509,
+      "symbol": "CC.DH.DH.init(dhParam:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1516,
+      "symbol": "CC.DH.DH.generateKey()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1529,
+      "symbol": "CC.DH.DH.computeKey(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1553,
+      "symbol": "CC.DH.available()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1588,
+      "symbol": "CC.EC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1590,
+      "symbol": "CC.EC.generateKeyPair(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1609,
+      "symbol": "CC.EC.signHash(_:hash:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1628,
+      "symbol": "CC.EC.verifyHash(_:hash:signedData:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1645,
+      "symbol": "CC.EC.computeSharedSecret(_:publicKey:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1696,
+      "symbol": "CC.EC.available()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1772,
+      "symbol": "CC.CRC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1774,
+      "symbol": "CC.CRC.CNcrc",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1775,
+      "symbol": "CC.CRC.Mode",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1776,
+      "symbol": "CC.CRC.Mode.crc8",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1777,
+      "symbol": "CC.CRC.Mode.crc8ICODE",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1778,
+      "symbol": "CC.CRC.Mode.crc8ITU",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1779,
+      "symbol": "CC.CRC.Mode.crc8ROHC",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1780,
+      "symbol": "CC.CRC.Mode.crc8WCDMA",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1781,
+      "symbol": "CC.CRC.Mode.crc16",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1782,
+      "symbol": "CC.CRC.Mode.crc16CCITTTrue",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1783,
+      "symbol": "CC.CRC.Mode.crc16CCITTFalse",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1784,
+      "symbol": "CC.CRC.Mode.crc16USB",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1785,
+      "symbol": "CC.CRC.Mode.crc16XMODEM",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1786,
+      "symbol": "CC.CRC.Mode.crc16DECTR",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1787,
+      "symbol": "CC.CRC.Mode.crc16DECTX",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1788,
+      "symbol": "CC.CRC.Mode.crc16ICODE",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1789,
+      "symbol": "CC.CRC.Mode.crc16VERIFONE",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1790,
+      "symbol": "CC.CRC.Mode.crc16A",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1791,
+      "symbol": "CC.CRC.Mode.crc16B",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1792,
+      "symbol": "CC.CRC.Mode.crc16Fletcher",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1793,
+      "symbol": "CC.CRC.Mode.crc32Adler",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1794,
+      "symbol": "CC.CRC.Mode.crc32",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1795,
+      "symbol": "CC.CRC.Mode.crc32CASTAGNOLI",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1796,
+      "symbol": "CC.CRC.Mode.crc32BZIP2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1797,
+      "symbol": "CC.CRC.Mode.crc32MPEG2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1798,
+      "symbol": "CC.CRC.Mode.crc32POSIX",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1799,
+      "symbol": "CC.CRC.Mode.crc32XFER",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1800,
+      "symbol": "CC.CRC.Mode.crc64ECMA182",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1803,
+      "symbol": "CC.CRC.crc(_:mode:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1815,
+      "symbol": "CC.CRC.available()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1826,
+      "symbol": "CC.CMAC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1828,
+      "symbol": "CC.CMAC.AESCMAC(_:key:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1838,
+      "symbol": "CC.CMAC.available()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1849,
+      "symbol": "CC.KeyDerivation",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1851,
+      "symbol": "CC.KeyDerivation.CCPseudoRandomAlgorithm",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1852,
+      "symbol": "CC.KeyDerivation.PRFAlg",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1853,
+      "symbol": "CC.KeyDerivation.PRFAlg.sha1",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1853,
+      "symbol": "CC.KeyDerivation.PRFAlg.sha224",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1853,
+      "symbol": "CC.KeyDerivation.PRFAlg.sha256",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1853,
+      "symbol": "CC.KeyDerivation.PRFAlg.sha384",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1853,
+      "symbol": "CC.KeyDerivation.PRFAlg.sha512",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1865,
+      "symbol": "CC.KeyDerivation.PBKDF2(_:salt:prf:rounds:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1884,
+      "symbol": "CC.KeyDerivation.available()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1903,
+      "symbol": "CC.KeyWrap",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1906,
+      "symbol": "CC.KeyWrap.rfc3394IV",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1908,
+      "symbol": "CC.KeyWrap.SymmetricKeyWrap(_:kek:rawKey:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1929,
+      "symbol": "CC.KeyWrap.SymmetricKeyUnwrap(_:kek:wrappedKey:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 1950,
+      "symbol": "CC.KeyWrap.available()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/RSA/RWSwCrypt.swift",
+      "line": 2020,
+      "symbol": "Data.arrayOfBytes()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK/SDK/RewardSDK/Shared/Utilities/UIExtensions/UIColor+Extension.swift",
+      "line": 12,
+      "symbol": "UIColor.init(hex:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/derick.derick/Projects/HybridSDK/new_ios_rewardsdk/RewardSDK"
+}
